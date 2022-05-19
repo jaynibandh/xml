@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="utf-8"?>
+<patent-document country="US" doc-number="2022022365" kind="A1" date-publ="20220127" invention-id="161806181" lhip-id="LH362954018" date-export="20220331" xsd-version="1.5.2">
+  <bibliographic-data>
+    <publication-references>
+      <publication-reference load-source="docdb" data-format="docdb" doc-id="566493472" family-id="70973440" is-representative="NO">
+        <document-id>
+          <country>US</country>
+          <doc-number>2022022365</doc-number>
+          <kind>A1</kind>
+          <date>20220127</date>
+          <lang>en</lang>
+        </document-id>
+      </publication-reference>
+      <publication-reference load-source="docdb" data-format="original">
+        <document-id>
+          <doc-number>20220022365</doc-number>
+        </document-id>
+      </publication-reference>
+      <publication-reference load-source="docdb" data-format="epodoc">
+        <document-id>
+          <doc-number>US2022022365</doc-number>
+          <lang>en</lang>
+        </document-id>
+      </publication-reference>
+      <publication-reference load-source="national-office" data-format="original">
+        <document-id>
+          <country>US</country>
+          <doc-number>20220022365</doc-number>
+          <kind>A1</kind>
+          <date>20220127</date>
+          <lang>en</lang>
+        </document-id>
+      </publication-reference>
+    </publication-references>
+    <application-references>
+      <application-reference load-source="national-office" data-format="original">
+        <document-id>
+          <country>US</country>
+          <doc-number>17299983</doc-number>
+          <date>20191206</date>
+          <lang>en</lang>
+        </document-id>
+      </application-reference>
+      <application-reference is-representative="NO" doc-id="566935574" load-source="docdb" data-format="docdb">
+        <document-id>
+          <country>US</country>
+          <doc-number>201917299983</doc-number>
+          <kind>A</kind>
+          <date>20191206</date>
+        </document-id>
+      </application-reference>
+      <application-reference load-source="docdb" data-format="epodoc">
+        <document-id>
+          <doc-number>US201917299983</doc-number>
+        </document-id>
+      </application-reference>
+      <application-reference load-source="docdb" data-format="original">
+        <document-id>
+          <doc-number>17299983</doc-number>
+        </document-id>
+      </application-reference>
+    </application-references>
+    <priority-claims>
+      <priority-claim sequence="1" load-source="docdb" data-format="docdb" doc-id="532598986">
+        <document-id>
+          <country>AU</country>
+          <doc-number>2019051340</doc-number>
+          <kind>W</kind>
+          <date>20191206</date>
+        </document-id>
+        <priority-linkage-type>W</priority-linkage-type>
+        <priority-active-indicator>N</priority-active-indicator>
+      </priority-claim>
+      <priority-claim sequence="1" load-source="docdb" data-format="epodoc">
+        <document-id>
+          <doc-number>WO2019AU51340</doc-number>
+        </document-id>
+      </priority-claim>
+      <priority-claim sequence="2" load-source="docdb" data-format="docdb">
+        <document-id>
+          <country>AU</country>
+          <doc-number>2018904662</doc-number>
+          <kind>A</kind>
+          <date>20181207</date>
+        </document-id>
+        <priority-active-indicator>Y</priority-active-indicator>
+      </priority-claim>
+      <priority-claim sequence="2" load-source="docdb" data-format="epodoc">
+        <document-id>
+          <doc-number>AU20180904662</doc-number>
+        </document-id>
+      </priority-claim>
+      <priority-claim sequence="1" load-source="docdb" data-format="original">
+        <document-id>
+          <doc-number>PCT/AU2019/051340</doc-number>
+        </document-id>
+      </priority-claim>
+    </priority-claims>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1" load-source="national-office">
+        <text>A01C   7/20        20060101AFI20220127BHUS        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2" load-source="national-office">
+        <text>A01B  63/111       20060101ALI20220127BHUS        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="3" load-source="national-office">
+        <text>A01B  79/00        20060101ALI20220127BHUS        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="4" load-source="national-office">
+        <text>A01C   5/06        20060101ALI20220127BHUS        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="5" load-source="national-office">
+        <text>A01C   7/10        20060101ALI20220127BHUS        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="1" load-source="docdb">
+        <text>A01B  63/111       20060101ALI20220127BHUS        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2" load-source="docdb">
+        <text>A01C   7/20        20060101AFI20220127BHUS        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="3" load-source="docdb">
+        <text>A01B  79/00        20060101ALI20220127BHUS        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="4" load-source="docdb">
+        <text>A01C   5/06        20060101ALI20220127BHUS        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="5" load-source="docdb">
+        <text>A01C   7/10        20060101ALI20220127BHUS        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <classifications-cpc>
+      <classification-cpc sequence="1" load-source="national-office">
+        <classification-scheme office="US" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A01C   7/203       </classification-symbol>
+        <classification-level>C</classification-level>
+        <symbol-position>F</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20220127</date>
+        </action-date>
+      </classification-cpc>
+      <classification-cpc sequence="2" load-source="national-office">
+        <classification-scheme office="US" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A01B  63/1115      </classification-symbol>
+        <classification-level>C</classification-level>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20220127</date>
+        </action-date>
+      </classification-cpc>
+      <classification-cpc sequence="3" load-source="national-office">
+        <classification-scheme office="US" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A01C   7/105       </classification-symbol>
+        <classification-level>C</classification-level>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20220127</date>
+        </action-date>
+      </classification-cpc>
+      <classification-cpc sequence="4" load-source="national-office">
+        <classification-scheme office="US" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A01C   5/062       </classification-symbol>
+        <classification-level>C</classification-level>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20220127</date>
+        </action-date>
+      </classification-cpc>
+      <classification-cpc sequence="5" load-source="national-office">
+        <classification-scheme office="US" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A01B  79/005       </classification-symbol>
+        <classification-level>C</classification-level>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20220127</date>
+        </action-date>
+      </classification-cpc>
+      <classification-cpc sequence="1" load-source="docdb">
+        <classification-scheme office="EP" scheme="CPCI">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A01B  79/005       </classification-symbol>
+        <symbol-position>F</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <generating-office>AU</generating-office>
+        <action-date>
+          <date>20200626</date>
+        </action-date>
+      </classification-cpc>
+      <classification-cpc sequence="2" load-source="docdb">
+        <classification-scheme office="EP" scheme="CPCI">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A01C   7/203       </classification-symbol>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <generating-office>AU</generating-office>
+        <action-date>
+          <date>20200626</date>
+        </action-date>
+      </classification-cpc>
+      <classification-cpc sequence="3" load-source="docdb">
+        <classification-scheme office="EP" scheme="CPCI">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A01C  17/006       </classification-symbol>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <generating-office>AU</generating-office>
+        <action-date>
+          <date>20200626</date>
+        </action-date>
+      </classification-cpc>
+      <classification-cpc sequence="4" load-source="docdb">
+        <classification-scheme office="EP" scheme="CPCI">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A01C   7/105       </classification-symbol>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <generating-office>AU</generating-office>
+        <action-date>
+          <date>20200626</date>
+        </action-date>
+      </classification-cpc>
+      <classification-cpc sequence="5" load-source="docdb">
+        <classification-scheme office="EP" scheme="CPCI">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A01B  49/06        </classification-symbol>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <generating-office>AU</generating-office>
+        <action-date>
+          <date>20200626</date>
+        </action-date>
+      </classification-cpc>
+      <classification-cpc sequence="6" load-source="docdb">
+        <classification-scheme office="EP" scheme="CPCI">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A01C  23/007       </classification-symbol>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <generating-office>AU</generating-office>
+        <action-date>
+          <date>20200626</date>
+        </action-date>
+      </classification-cpc>
+      <classification-cpc sequence="7" load-source="docdb">
+        <classification-scheme office="EP" scheme="CPCI">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A01C   5/062       </classification-symbol>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <generating-office>AU</generating-office>
+        <action-date>
+          <date>20200626</date>
+        </action-date>
+      </classification-cpc>
+      <classification-cpc sequence="8" load-source="docdb">
+        <classification-scheme office="EP" scheme="CPCI">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A01C   5/06        </classification-symbol>
+        <symbol-position>L</symbol-position>
+        <classification-value>A</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <generating-office>AU</generating-office>
+        <action-date>
+          <date>20200626</date>
+        </action-date>
+      </classification-cpc>
+      <classification-cpc sequence="9" load-source="docdb">
+        <classification-scheme office="EP" scheme="CPCI">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A01C   7/042       </classification-symbol>
+        <symbol-position>L</symbol-position>
+        <classification-value>A</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <generating-office>AU</generating-office>
+        <action-date>
+          <date>20200626</date>
+        </action-date>
+      </classification-cpc>
+      <classification-cpc sequence="10" load-source="docdb">
+        <classification-scheme office="EP" scheme="CPCI">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A01C  21/007       </classification-symbol>
+        <symbol-position>F</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <generating-office>EP</generating-office>
+        <action-date>
+          <date>20200716</date>
+        </action-date>
+      </classification-cpc>
+      <classification-cpc sequence="11" load-source="docdb">
+        <classification-scheme office="EP" scheme="CPCI">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A01C   5/062       </classification-symbol>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <generating-office>EP</generating-office>
+        <action-date>
+          <date>20200716</date>
+        </action-date>
+      </classification-cpc>
+      <classification-cpc sequence="12" load-source="docdb">
+        <classification-scheme office="EP" scheme="CPCI">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A01B  63/1115      </classification-symbol>
+        <symbol-position>L</symbol-position>
+        <classification-value>A</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <generating-office>EP</generating-office>
+        <action-date>
+          <date>20210208</date>
+        </action-date>
+      </classification-cpc>
+      <classification-cpc sequence="13" load-source="docdb">
+        <classification-scheme office="EP" scheme="CPCI">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A01B  63/1115      </classification-symbol>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <generating-office>US</generating-office>
+        <action-date>
+          <date>20220217</date>
+        </action-date>
+      </classification-cpc>
+      <classification-cpc sequence="14" load-source="docdb">
+        <classification-scheme office="EP" scheme="CPCI">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A01B  79/005       </classification-symbol>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <generating-office>US</generating-office>
+        <action-date>
+          <date>20220217</date>
+        </action-date>
+      </classification-cpc>
+      <classification-cpc sequence="15" load-source="docdb">
+        <classification-scheme office="EP" scheme="CPCI">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A01C   5/062       </classification-symbol>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <generating-office>US</generating-office>
+        <action-date>
+          <date>20220217</date>
+        </action-date>
+      </classification-cpc>
+      <classification-cpc sequence="16" load-source="docdb">
+        <classification-scheme office="EP" scheme="CPCI">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A01C   7/105       </classification-symbol>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <generating-office>US</generating-office>
+        <action-date>
+          <date>20220217</date>
+        </action-date>
+      </classification-cpc>
+      <classification-cpc sequence="17" load-source="docdb">
+        <classification-scheme office="EP" scheme="CPCI">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A01C   7/203       </classification-symbol>
+        <symbol-position>F</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <generating-office>US</generating-office>
+        <action-date>
+          <date>20220217</date>
+        </action-date>
+      </classification-cpc>
+    </classifications-cpc>
+    <parties>
+      <applicants>
+        <applicant sequence="1" load-source="national-office" data-format="original" designation="us-only" type="company-corp">
+          <addressbook>
+            <name>Sensortine Pty Ltd</name>
+            <address>
+              <city>Orange, New South Wales</city>
+              <country>AU</country>
+            </address>
+          </addressbook>
+          <residence>
+            <country>AU</country>
+          </residence>
+          <us-rights />
+        </applicant>
+        <applicant sequence="1" load-source="docdb" data-format="docdb" type="company-corp">
+          <addressbook>
+            <name>SENSORTINE PTY LTD</name>
+          </addressbook>
+          <residence>
+            <country>AU</country>
+          </residence>
+        </applicant>
+        <applicant sequence="1" load-source="docdb" data-format="docdba" type="company-corp">
+          <addressbook>
+            <name>Sensortine Pty Ltd</name>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor sequence="1" load-source="national-office" data-format="original" designation="us-only">
+          <addressbook>
+            <last-name>Finlay</last-name>
+            <first-name>Davidson Alexander</first-name>
+            <address>
+              <city>Orange, New South Wales</city>
+              <country>AU</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor sequence="2" load-source="national-office" data-format="original" designation="us-only">
+          <addressbook>
+            <last-name>Finlay</last-name>
+            <first-name>Wendy Louise</first-name>
+            <address>
+              <city>Orange, New South Wales</city>
+              <country>AU</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor sequence="3" load-source="national-office" data-format="original" designation="us-only">
+          <addressbook>
+            <last-name>Mullins</last-name>
+            <first-name>Paul Andrew</first-name>
+            <address>
+              <city>Orange, New South Wales</city>
+              <country>AU</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor sequence="4" load-source="national-office" data-format="original" designation="us-only">
+          <addressbook>
+            <last-name>Howard</last-name>
+            <first-name>Gordon Stephen</first-name>
+            <address>
+              <city>Orange, New South Wales</city>
+              <country>AU</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor sequence="1" load-source="docdb" data-format="docdb">
+          <addressbook>
+            <name>FINLAY DAVIDSON ALEXANDER</name>
+          </addressbook>
+          <residence>
+            <country>AU</country>
+          </residence>
+        </inventor>
+        <inventor sequence="2" load-source="docdb" data-format="docdb">
+          <addressbook>
+            <name>FINLAY WENDY LOUISE</name>
+          </addressbook>
+          <residence>
+            <country>AU</country>
+          </residence>
+        </inventor>
+        <inventor sequence="3" load-source="docdb" data-format="docdb">
+          <addressbook>
+            <name>MULLINS PAUL ANDREW</name>
+          </addressbook>
+          <residence>
+            <country>AU</country>
+          </residence>
+        </inventor>
+        <inventor sequence="4" load-source="docdb" data-format="docdb">
+          <addressbook>
+            <name>HOWARD GORDON STEPHEN</name>
+          </addressbook>
+          <residence>
+            <country>AU</country>
+          </residence>
+        </inventor>
+        <inventor sequence="1" load-source="docdb" data-format="docdba">
+          <addressbook>
+            <name>Finlay, Davidson Alexander</name>
+          </addressbook>
+        </inventor>
+        <inventor sequence="2" load-source="docdb" data-format="docdba">
+          <addressbook>
+            <name>Finlay, Wendy Louise</name>
+          </addressbook>
+        </inventor>
+        <inventor sequence="3" load-source="docdb" data-format="docdba">
+          <addressbook>
+            <name>Mullins, Paul Andrew</name>
+          </addressbook>
+        </inventor>
+        <inventor sequence="4" load-source="docdb" data-format="docdba">
+          <addressbook>
+            <name>Howard, Gordon Stephen</name>
+          </addressbook>
+        </inventor>
+      </inventors>
+    </parties>
+    <invention-title lang="en" load-source="national-office" data-format="original">METHODS AND APPARATUS FOR AGRICULTURE</invention-title>
+    <invention-title lang="en" load-source="docdb" data-format="docdba">METHODS AND APPARATUS FOR AGRICULTURE</invention-title>
+    <dates-of-public-availability>
+      <unexamined-printed-without-grant>
+        <document-id>
+          <date>20220127</date>
+        </document-id>
+      </unexamined-printed-without-grant>
+    </dates-of-public-availability>
+    <international-convention-data>
+      <date-pct-article-22-39-fulfilled>
+        <date>20210604</date>
+      </date-pct-article-22-39-fulfilled>
+      <pct-or-regional-filing-data>
+        <document-id>
+          <country>WO</country>
+          <doc-number>PCT/AU2019/051340</doc-number>
+          <date>20191206</date>
+        </document-id>
+      </pct-or-regional-filing-data>
+    </international-convention-data>
+  </bibliographic-data>
+  <abstract lang="en" load-source="national-office" data-format="original">
+    <p id="p-0001" num="0000">An apparatus (<b>1</b>) and method are disclosed for seeding soil. The apparatus (<b>1</b>) comprises a soil-sensing arrangement. The apparatus (<b>1</b>) comprises a seed-delivery mechanism. The soil-sensing arrangement comprises one or more soil-sensing elements. Each of the one or more soil-sensing elements is configured to sense one or more conditions of the soil. The one or more soil-sensing elements can take the form of one or more soil-sensing tines <b>19</b>. In the method, material is delivered to a locally-optimised soil depth LOD. In the method, there is at least periodic sensing of one or more conditions of the soil, and at two or more depths at mutually differing proximities to the locally-optimised depth.</p>
+    <img file="US2022022365A1_A0001.tif" />
+  </abstract>
+  <abstract lang="en" load-source="docdb" data-format="docdba" abstract-source="national-office">
+    <p>An apparatus (1) and method are disclosed for seeding soil. The apparatus (1) comprises a soil-sensing arrangement. The apparatus (1) comprises a seed-delivery mechanism. The soil-sensing arrangement comprises one or more soil-sensing elements. Each of the one or more soil-sensing elements is configured to sense one or more conditions of the soil. The one or more soil-sensing elements can take the form of one or more soil-sensing tines 19. In the method, material is delivered to a locally-optimised soil depth LOD. In the method, there is at least periodic sensing of one or more conditions of the soil, and at two or more depths at mutually differing proximities to the locally-optimised depth.</p>
+  </abstract>
+  <description lang="en" load-source="national-office" data-format="original">
+    <?summary-of-invention description="Summary of Invention" end="lead"?>
+    <heading id="h-0001" level="1">TECHNICAL FIELD</heading>
+    <p id="p-0002" num="0001">The disclosure relates to methods and apparatus for agriculture.</p>
+    <heading id="h-0002" level="1">BACKGROUND</heading>
+    <p id="p-0003" num="0002">Optimising yield is an important concern in agriculture. Seed germination rates and other factors influencing crop yield depend upon the conditions of the soil. Accordingly, various existing approaches entail assessing the conditions of the soil when seeding or otherwise adding matter to the soil, e.g. including or when adding fertiliser.</p>
+    <p id="p-0004" num="0003">Whilst a wide range of soil conditions can impact upon crop performance, soil moisture can be important, particularly in relation to seed germination.</p>
+    <p id="p-0005" num="0004">Historically, farmers have dug their fields to manually assess the moisture at various depths. Generally, soil that can be rolled into a ball and retain its shape has been considered ideal.</p>
+    <p id="p-0006" num="0005">Typically, soil conditions are not uniform over a large agricultural area. Accordingly, this manual assessment of the soil moisture might be repeated at a variety of test sites spread across the area. The depth at which seeds are planted may be varied in response to the varying soil and moisture levels.</p>
+    <p id="p-0007" num="0006">More recently, various automated soil-sensing apparatus have been suggested. Some entail a soil-sensing seed firmer that moves along a furrow following a seed outlet, pressing the seeds into the soil whilst sensing the condition of the soil.</p>
+    <p id="p-0008" num="0007">It is not admitted that any of the information in this patent specification, including the information recited in the Background, is common general knowledge in Australia or any other country.</p>
+    <heading id="h-0003" level="1">SUMMARY OF THE DISCLOSURE</heading>
+    <p id="p-0009" num="0008">One aspect of the disclosure provides an apparatus for seeding soil. The apparatus comprises a soil-sensing arrangement and a seed-delivery mechanism. The soil-sensing arrangement comprises one or more soil-sensing elements. Each of the one or more soil-sensing elements can be configured to sense one or more conditions of the soil. The one or more soil-sensing elements can comprise one or more soil-sensing tines.</p>
+    <p id="p-0010" num="0009">The Applicant has recognised that improvements may be made over the existing automated arrangements and over the known manual methods. Thus, the apparatus as disclosed herein may provide improvements in and for agriculture, or at least may provide useful alternatives for those concerned with agriculture.</p>
+    <p id="p-0011" num="0010">In an embodiment, the one or more soil-sensing elements may be integrated with the one or more soil sensing tines. Thus, the soil sensing element may engage the ground simultaneously as the ground is traversed, rather than having the sensor trailing behind the ground engaging tine/s. This may improve the quality of the data collected and may assist with optimising the depth and rate of delivery for the seed-delivery mechanism.</p>
+    <p id="p-0012" num="0011">In an embodiment, the seed-delivery mechanism may be responsive to the soil-sensing arrangement, to deliver at least most of the seed to a locally-optimised depth. This may improve crop performance, particularly in relation to seed germination.</p>
+    <p id="p-0013" num="0012">In an embodiment, the soil-sensing arrangement may be configured to, at least periodically, sense at two or more depths, at mutually-differing proximities to the locally optimised depth, to provide an indication of a local soil condition profile. Such data may be gathered, stored, processed and/or optimised for providing such information including soil profiling, soil historical data, soil seeding response information, etc.</p>
+    <p id="p-0014" num="0013">In a further aspect, there is disclosed an apparatus for seeding soil. The apparatus can comprise a soil-sensing arrangement and a material-delivery mechanism (e.g. a seed-delivery mechanism). The material-delivery mechanism can be configured to respond to the soil-sensing arrangement.</p>
+    <p id="p-0015" num="0014">The soil-sensing arrangement can comprise one or more soil-sensing elements. Each of the one or more soil-sensing elements can be configured to sense one or more conditions of the soil. The seed-delivery mechanism can be responsive to the soil-sensing arrangement to deliver at least most of the seed to a locally-optimised depth.</p>
+    <p id="p-0016" num="0015">The soil-sensing arrangement may be configured to, at least periodically, sense at two or more depths at mutually-differing proximities to the locally-optimised depth.</p>
+    <p id="p-0017" num="0016">This may be advantageous because seeds placed into soil that is overly dry are unlikely to germinate without precipitation or irrigation. In addition, seeds that are placed unnecessarily deep within the soil, may result in delayed germination and may require increased energy consumption during the seeding process due to the increased earth resistance on the tine.</p>
+    <p id="p-0018" num="0017">In an embodiment, the apparatus may comprise two or more of the soil-sensing elements arranged to sense at mutually differing depths. In an embodiment, at least one of the one or more soil sensing elements may have sensing portions spaced vertically to sense at differing depths. The two or more of the soil-sensing elements can thereby provide a profile/information across a depth of soil.</p>
+    <p id="p-0019" num="0018">In an embodiment, the soil-sensing arrangement may be configured to at least periodically move at least one of the one or more soil-sensing elements to differing depths, e.g. move in response to one or more conditions of the soil. In other words, the apparatus may adjust (e.g. automatically/responsively) to varying/variable soil conditions across an area.</p>
+    <p id="p-0020" num="0019">In an embodiment, at least one of the one or more soil-sensing elements may be arranged to be a leading soil-engaging element. Such simultaneous sensing of the soil properties, whilst opening up the soil with the tine, may advantageously provide improved accuracy in the data collected. In addition, by gathering the soil data simultaneously as the soil is opened, the data may be collected prior to the escape of any humidity contained within the soil.</p>
+    <p id="p-0021" num="0020">In an embodiment, at least one of the one or more soil-sensing elements may be shaped to pull down when moved horizontally through the soil.</p>
+    <p id="p-0022" num="0021">In an embodiment, at least one seed-outlet may be fixed relative to at least one of the one or more soil-sensing elements. This may improve robustness and reliability of the apparatus.</p>
+    <p id="p-0023" num="0022">In an embodiment, the seed-delivery mechanism may be responsive, to the soil-sensing arrangement, to vary a seeding rate. Such variation may form part of a control procedure/algorithm or may be decided by e.g. a farmer.</p>
+    <p id="p-0024" num="0023">In an embodiment, the one or more soil conditions may comprise soil moisture. However, it should be understood that additional or different soil conditions may be sensed/detected/measured (e.g. temperature, humidity, pH, carbon, biomass, salinity, etc.).</p>
+    <p id="p-0025" num="0024">In an embodiment, the seed-delivery mechanism may be responsive to input indicative of a drag on at least one soil-engaging element (e.g. the mechanism may be responsive to input indicative of a drag on at least one of the one or more soil-sensing elements). The apparatus (e.g. its depth in the soil) can adjust accordingly (e.g. part of a control procedure/algorithm or as determined by e.g. a farmer). The drag may be measured utilising a strain gauge and/or a load cell.</p>
+    <p id="p-0026" num="0025">In a further aspect, there is disclosed an apparatus for delivering matter to soil. The apparatus comprises one or more soil-engaging elements and a mechanism for monitoring a drag on at least one of the one or more soil engaging elements. The drag may be measured utilising a strain gauge and/or a load cell.</p>
+    <p id="p-0027" num="0026">In a further aspect, there is disclosed a method of assessing a condition of soil. The method comprises:
+<ul id="ul0001" list-style="none"><li id="ul0001-0001" num="0000"><ul id="ul0002" list-style="none"><li id="ul0002-0001" num="0027">moving one or more elements through the soil, and;</li><li id="ul0002-0002" num="0028">monitoring a drag on the one or more elements.</li></ul></li></ul></p>
+    <p id="p-0028" num="0029">In the method, the drag may be measured by measuring strain and/or load.</p>
+    <p id="p-0029" num="0030">In a further aspect, there is disclosed a method of delivering material to soil. The method comprises:
+<ul id="ul0003" list-style="none"><li id="ul0003-0001" num="0000"><ul id="ul0004" list-style="none"><li id="ul0004-0001" num="0031">delivering the material to a locally-optimised depth; and</li><li id="ul0004-0002" num="0032">at least periodically sensing one or more conditions of the soil at two or more depths at mutually differing proximities to the locally-optimised depth.</li></ul></li></ul></p>
+    <?summary-of-invention description="Summary of Invention" end="tail"?>
+    <?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+    <description-of-drawings>
+      <heading id="h-0004" level="1">BRIEF DESCRIPTION OF DRAWINGS</heading>
+      <p id="p-0030" num="0033">Embodiments will now be described, by way of example only, with reference to the accompanying drawings in which:</p>
+      <p id="p-0031" num="0034">
+        <figref idref="DRAWINGS">FIG. 1</figref> is a side view of a row unit;</p>
+      <p id="p-0032" num="0035">
+        <figref idref="DRAWINGS">FIG. 2</figref> is a perspective view of a tine with a prong-shaped body;</p>
+      <p id="p-0033" num="0036">
+        <figref idref="DRAWINGS">FIG. 3</figref> is a cross-section view of typical soil;</p>
+      <p id="p-0034" num="0037">
+        <figref idref="DRAWINGS">FIG. 4</figref> is a cross-section view of soil after a prolonged dry period; and</p>
+      <p id="p-0035" num="0038">
+        <figref idref="DRAWINGS">FIG. 5</figref> is a cross-section view of soil after recent rain.</p>
+      <p id="p-0036" num="0039">
+        <figref idref="DRAWINGS">FIG. 6</figref> is a perspective view of a tine comprising a body having a chisel style point with dual soil sensors;</p>
+      <p id="p-0037" num="0040">
+        <figref idref="DRAWINGS">FIG. 7</figref> is a perspective view of a tine comprising a body having a broad chisel style point with a single soil sensor;</p>
+      <p id="p-0038" num="0041">
+        <figref idref="DRAWINGS">FIG. 8</figref> is a perspective view of a tine comprising a body having a single disc, or coulter, with a single soil sensor;</p>
+      <p id="p-0039" num="0042">
+        <figref idref="DRAWINGS">FIG. 9</figref> is a perspective view of a tine comprising a body having a double disc arrangement with a single soil sensor.</p>
+    </description-of-drawings>
+    <?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+    <?detailed-description description="Detailed Description" end="lead"?>
+    <heading id="h-0005" level="1">DESCRIPTION OF EMBODIMENTS</heading>
+    <p id="p-0040" num="0043">In the following detailed description, reference is made to accompanying drawings which form a part of the detailed description. The illustrative embodiments described in the detailed description, depicted in the drawings and defined in the claims, are not intended to be limiting. Other embodiments may be utilised and other changes may be made without departing from the spirit or scope of the subject matter presented. It will be readily understood that the aspects of the present disclosure, as generally described herein and illustrated in the drawings can be arranged, substituted, combined, separated and designed in a wide variety of different configurations, all of which are contemplated in this disclosure.</p>
+    <p id="p-0041" num="0044">
+      <figref idref="DRAWINGS">FIG. 1</figref> illustrates a row unit <b>1</b> for planting seeds. The row unit <b>1</b> is mountable to the crossbar <b>3</b> of a vehicle, such as a seed-planting rig that is in use towed by a tractor.</p>
+    <p id="p-0042" num="0045">As the wording is used herein, the row unit, the planting rig and the rig-tractor combination are non-limiting examples of seed-planting devices.</p>
+    <p id="p-0043" num="0046">The row unit <b>1</b> comprises a set of linkages pivotally connected to each other at nodes <b>5</b>, <b>7</b>, <b>9</b>, <b>11</b>, <b>13</b>, <b>15</b>. The nodes <b>5</b>, <b>11</b> are fixed relative to the crossbar <b>3</b> whilst the nodes <b>7</b>, <b>13</b> are fixed relative to a gauge wheel <b>14</b>. The nodes <b>5</b>, <b>7</b>, <b>11</b>, <b>13</b> define the vertices of a parallelogram diagonalled by a resilient bias <b>17</b> to form a suspension arrangement by which the gauge wheel <b>14</b> is suspended relative to the crossbar <b>3</b>. In this example, the bias <b>17</b> takes the form of the combination of a hydraulic ram and an accumulator. Pneumatic rams and simple springs are other options. Indeed, other suspension arrangements more generally are possible.</p>
+    <p id="p-0044" num="0047">The suspension arrangement downwardly drives the gauge wheel <b>14</b> to follow the surface of the soil. The nodes <b>7</b>, <b>13</b> thus may run at a substantially fixed height relative to the soil surface. Other contacting-type gauge arrangements, such as a skid, are possible. These contact-type gauge arrangements may entail one or more encoders (such as radial encoder(s) or linear encoder(s)). Non-contact surface-sensing arrangements are also possible—these may be ultrasonic or laser.</p>
+    <p id="p-0045" num="0048">The row unit <b>1</b> further includes a tine <b>19</b>. Those skilled in the art would appreciate that the body of the tine <b>19</b> can be formed in a wide variety of shapes, sizes, and styles depending on soil types or plough manufacturer.</p>
+    <p id="p-0046" num="0049">In some embodiments, such as in <figref idref="DRAWINGS">FIGS. 1 and 2</figref> for example, the tine <b>19</b>, <b>119</b> can be formed to comprise a tubular body with a prong or sharp point disposed at the in-use lower end. In some embodiments, such as in <figref idref="DRAWINGS">FIGS. 6 and 7</figref>, the tine <b>619</b>, <b>719</b> can comprise a body that is formed to have a chisel style point. In other embodiments, such as in <figref idref="DRAWINGS">FIGS. 8 and 9</figref>, the tine <b>819</b>, <b>919</b> can be formed as a disc, coulter disc, or multiple discs. Those skilled in the art would appreciate that any suitable material may be used to form the rigid parts of the tine <b>19</b>. For examples, suitable materials can include steel; cast steel; ceramics; carbides or any of a wide range of alloy materials that have wear and abrasion resistant properties.</p>
+    <p id="p-0047" num="0050">The nodes <b>7</b>, <b>9</b>, <b>13</b>, <b>15</b> define the vertices of a parallelogram diagonalled by an actuator <b>21</b> to form a depth-adjusting mechanism by which the depth of the tine <b>19</b> relative to the soil surface is adjustable. The actuator <b>21</b> is preferably substantially non-compliant. A hydraulic ram is a suitable option. A ball screw is another possibility. The use of the parallelogram in this way maintains the angular orientation of the tine <b>19</b> relative to the soil for a controlled approach to opening the soil. This fixed orientation is also convenient in the context of sensing portions vertically spaced along the tine, although other forms of depth-adjusting mechanism are possible.</p>
+    <p id="p-0048" num="0051">A press wheel <b>23</b> is suspended by a suspension <b>25</b> to follow behind the tine <b>19</b>. The suspension <b>25</b> comprises a trailing arm <b>27</b> and a bias <b>29</b>. The bias <b>29</b> may be akin to the bias <b>17</b>. Again, other suspension arrangements are possible. The press wheel serves to ensure that the soil coverage over the placed seed is well compacted. The force from the bias <b>29</b> may be adjusted based on soil type, potentially in response to data gathered during the seeding operation, to optimise the closure of the soil. By way of example, heavier clays will typically need more effort for good compaction than a sandy soil. Other soil-closing arrangements are possible.</p>
+    <p id="p-0049" num="0052">Tine <b>19</b> is preferably a seed-planting tine having a seed-delivery outlet fixed relative thereto. By way of example, the tine may be a tubular tine through which seeds are pneumatically conveyed by a suitable seed-delivery mechanism <b>31</b>. Alternatively, a seed-delivery tube may be fixed to the rear of the tine <b>19</b>.</p>
+    <p id="p-0050" num="0053">The tine <b>19</b> is preferably a soil-sensing tine comprising one or more convenient soil sensors, whereby the tine <b>19</b> can be configured to measure a condition or property of the soil. For example, these properties may include one or more of soil moisture, temperature, humidity, pH, carbon, biomass and salinity. The soil sensor can be a single sensor, or an array of sensors, with each sensor being configured to measure a condition or property of the soil at substantially the same depth at which the delivered seeds come to rest (i.e. at the planting depth).</p>
+    <p id="p-0051" num="0054">
+      <figref idref="DRAWINGS">FIG. 2</figref> illustrates a preferred form of tine <b>119</b> that is both a tubular seed-planting tine and a soil-sensing tine.</p>
+    <p id="p-0052" num="0055">The tine comprises a metallic body <b>119</b><i>a </i>and a trio of metallic bodies <b>119</b><i>b</i>, <b>119</b><i>c</i>, <b>119</b><i>d </i>spaced at differing vertical depths along the tine <b>119</b>. The bodies <b>119</b><i>a </i>to <b>119</b><i>d </i>are electrically insulated against direct electrical contact with each other to gather data regarding the soil. Materials such as plastics, ceramics, or other suitable materials may be embedded into the tine to insulate between the metallic bodies <b>119</b><i>a</i>, <b>119</b><i>b</i>, <b>119</b><i>c</i>, <b>119</b><i>d </i>that are used for sensing and measuring electronic resistance between the metals.</p>
+    <p id="p-0053" num="0056">Optionally, the body <b>119</b><i>a </i>may be formed of a differing metal to the bodies <b>119</b><i>b </i>to <b>119</b><i>d</i>, whereby a voltage between the dissimilar metals can be sensed to provide an indication of the condition of the soil. Alternatively, a voltage might be applied to provide an indication of the conductance of the soil. The sensing portions are preferably at the side(s) of the tine.</p>
+    <p id="p-0054" num="0057">Of course, a wide range of potential soil-sensing arrangements are well known to a person of skill in the art. Preferably, at least one of the soil-sensing elements carries two different types of soil sensor. Most preferably, sensors are provided to measure conductivity, capacitance and temperature.</p>
+    <p id="p-0055" num="0058">Optionally, for optimum results, different sensors may be employed for different soil types. Whilst a simple variant of the concept may entail only an electrical current sensor (conductivity) to measure moisture resistance/content in the soil, more elaborate sensing arrangements may be employed. Factors such as salinity, the level of biomass in the soil, and the soil type (sandy, loamy, black, etc.) can impact on the relationship between conductivity and soil moisture level. By utilising suitable other sensing arrangements to measure such parameters, a more accurate assessment of the soil moisture level can be made. By way of example, the tine can comprise one or more of the following sensors:
+<ul id="ul0005" list-style="none"><li id="ul0005-0001" num="0000"><ul id="ul0006" list-style="none"><li id="ul0006-0001" num="0059">temperature sensors;</li><li id="ul0006-0002" num="0060">capacitance or frequency domain refractometry (FDR) sensors;</li><li id="ul0006-0003" num="0061">time domain refractometry (TDR) sensors;</li><li id="ul0006-0004" num="0062">time domain transmissiometry (TDT) sensors;</li><li id="ul0006-0005" num="0063">standing wave ratio sensors;</li><li id="ul0006-0006" num="0064">electromagnetic;</li><li id="ul0006-0007" num="0065">radar;</li><li id="ul0006-0008" num="0066">UV light;</li><li id="ul0006-0009" num="0067">pH;</li><li id="ul0006-0010" num="0068">carbon sensors (or other sensors identified to measure the levels of other specific elements.</li></ul></li></ul></p>
+    <p id="p-0056" num="0069">The present inventors have recognised that the drag on the soil-engaging elements also provides a useful indication of soil condition and that, furthermore, this drag can be conveniently measured utilising a strain gauge. By way of example, strain on the tine per se might be measured and/or a pin-type strain gauge might be employed at one of the nodes of the row unit <b>1</b>. One or more load cells associated with the crossbar <b>3</b>, and/or even associated with the draw bar of the planting rig, may also be convenient. Indeed, parameters of the drive vehicle, such as the fuel-injector rate, may also be utilised to provide an indication of the drag of the tines relatable to the soil condition.</p>
+    <p id="p-0057" num="0070">Preferred implementations of the concept apply logic to a variety of data sources to identify the locally-optimised planting depth.</p>
+    <p id="p-0058" num="0071">Preferably, data is collected and correlated with location information (e.g. with GPS tracking) to create data sets (e.g. moisture maps) useful to optimise future planting operations.</p>
+    <p id="p-0059" num="0072">By way of example, separate data sets may be gathered over a series of planting operations, e.g. over several seasons of cropping. This series of data sets may then be processed and combined to inform future material-delivery operations. By way of example, an initial estimate of the locally-optimised depth as a function of area may be provided and a planting operation may proceed by following this estimate. The estimate may be informed by historical events (e.g. weather, earlier crops and/or fertiliser applications). It may be additionally or alternatively informed by predicted future events such as predicted rain, scheduled irrigation and/or scheduled fertiliser application. The data sets generated by the one or more sensors of the soil-sensing element can be transmitted via a signal to an externally contained processing unit where the data sets can be measured, recorded and analysed.</p>
+    <p id="p-0060" num="0073">A tine may be preferred over other potential soil-sensing elements such as firmers and coulters. A tine can provide measurements of the soil conditions deeper into the soil, when compared to other potential soil-sensing elements such as firmers and coulters. Typically, coulters penetrate no further than about 100 mm (4 inches), whereas tines are routinely used at depths as deep as about 250 mm (10 inches). The soil-sensing element is preferably a leading, or ground engaging, element of its respective row unit, to bring its sensing portions into contact with soil undisturbed by the present operation. Most preferably, the tine is configured to pull down as it is horizontally dragged through the soil. The illustrated tines project forward and downwards at an oblique angle for this purpose. Additionally or alternatively, the tines may be equipped with wings or other shaped formations for this purpose. In a variant, the soil-sensing element can be used in-line with other ground openers for seed placement. In a further variant, the soil-sensing element can be a trailing element.</p>
+    <p id="p-0061" num="0074">Preferred variants of the row unit <b>1</b> are configured to vary the planting depth on the fly, to optimise the placement of the seed.</p>
+    <p id="p-0062" num="0075">In some embodiments, the soil-sensing elements can be embedded, or fully integrated into the soil engaging tine. For example, the tine <b>619</b> of <figref idref="DRAWINGS">FIG. 6</figref> comprises a body having a chisel style point with dual embedded soil sensors <b>619</b><i>a</i>, <b>619</b><i>b </i>being horizontally displaced from one another across the tine <b>619</b> body. In a further example, the tine <b>719</b> of <figref idref="DRAWINGS">FIG. 7</figref> comprises a body having a broad chisel style point with a single embedded soil sensor <b>719</b><i>a </i>centrally disposed towards the pointed tip of the tine <b>719</b>. In yet another example, the tine <b>819</b> of <figref idref="DRAWINGS">FIG. 8</figref> comprises a body shaped as a single disc or coulter. The tine <b>819</b> can comprise a single soil sensor <b>819</b><i>a </i>that is embedded at a distance from the outer rim of the tine <b>819</b> body so as to rotate about the central axis of the disc-shaped tine <b>819</b> in use. <figref idref="DRAWINGS">FIG. 9</figref> shows a further embodiment, where the tine <b>919</b> comprises a double disc arrangement, with each tine disc comprising a single soil sensor that is embedded within the body. Each of the tine <b>919</b> discs can be rotated independently of one another. In a variation, the disc-shaped body can comprise a plurality of sensors embedded therein.</p>
+    <p id="p-0063" num="0076">to <b>9</b>, the tine <b>619</b>, <b>719</b>, <b>819</b>, <b>919</b> can comprise a body that is formed to have a chisel style point. In other embodiments, such as in <figref idref="DRAWINGS">FIGS. 8 and 9</figref>, the tine <b>819</b>, <b>919</b> can be formed as a disc, coulter disc, or multiple discs.</p>
+    <p id="p-0064" num="0077">
+      <figref idref="DRAWINGS">FIG. 3</figref> illustrates a typical soil profile. The upper stratum of soil is relatively dry, whereas progressively more moisture can be found by digging deeper into the soil. Also, as is not uncommon, the profile varies across the field being treated.</p>
+    <p id="p-0065" num="0078">Following old manual techniques, all of the seed may well have been set at a single, globally-optimised depth GOD. By sensing and responding to soil conditions on the fly, the present disclosure provides that seed can be delivered to the locally-optimised depth LOD and thereby improve the performance of the seed.</p>
+    <p id="p-0066" num="0079">Preferred variants of the present disclosure not only track the soil conditions in proximity to the LOD but also gather data regarding a soil condition profile, i.e. data regarding how the condition of the soil varies as a function of depth. As the wording (and similar wording) is used herein, a measurement at the LOD is a measurement at a proximity of 0 to the LOD, whereby measuring at the LOD and at some other depth is one example of measuring at two or more depths at mutually-differing proximities to the LOD.</p>
+    <p id="p-0067" num="0080">Typical implementations of the concepts disclosed herein will entail soil condition data at discrete depths, although analogue equipment providing a substantially constant signal over a range of depths may be possible. As the wording (and similar wording) is used herein, this continuous signal is regarded as relating to an infinity of depths and is thus an example of information regarding two or more depths.</p>
+    <p id="p-0068" num="0081">There may be various advantageous options for gathering this information. Preferably, soil condition data can be gathered on the fly during the material-delivery operation. In the context of a tine <b>19</b> configured to sense the soil moisture at one point, e.g. in the vicinity of the tip of the tine, the depth of the tine <b>19</b> may be adjusted, by periodically moving the tine <b>19</b> up or down (e.g. in the vicinity of 100 mm/min) to differing depths to hunt for information. The disclosed soil sensing apparatus and method can be used in an array of ground engaging devices when planting seeds. In the context of a seed-planting vehicle having a number of row units, e.g. 40 row units spread across a 12 m wide boom, only some (e.g. not more than one third) of the tines may be vertically moved. In some embodiments, only some (e.g. not more than one third) of the row units are sensing row units. The other row units may be controlled in response to the output from the sensing row units.</p>
+    <p id="p-0069" num="0082">In some embodiments, the depth of the tines can be adjusted in response to the sensed conditions. By way of example, the tines might maintain a constant depth, or perhaps vary in a defined way such as in accordance with a predetermined moisture map, and then hunt to assess soil conditions only if the sensed amount of water (or sensed other condition) is outside of tolerance.</p>
+    <p id="p-0070" num="0083">By way of example, in some embodiments, the tine might be periodically plunged to a bottom of a depth of interest and potentially held there for a predefined distance (e.g. 20 m) or a predefined time (e.g. 20 seconds). In some embodiments, the soil condition data can be used to adjust the in-field seeding rate and/or the in-field fertilizer rate.</p>
+    <p id="p-0071" num="0084">In some embodiments, the row unit can be programmed to adjust one or more of the in-field seeding depth, in-field seeding rate, and the in-field fertilizer rate by receiving commands or a program from an external data set, such as satellite imagery or a third-party soil map.</p>
+    <p id="p-0072" num="0085">In some embodiments, the tine <b>119</b>, having sensing arrangements at differing depths (e.g. <figref idref="DRAWINGS">FIG. 2</figref>), can be dragged through the soil at a fixed depth to build up soil condition profile information. By way of example, in the context of a large rig having many row units, a small number of those small units may have tines akin to the tine <b>19</b> and configured to deliver seed below the globally-optimised depth whilst providing output by which the other tines of the row unit may be raised and lowered to optimise the overall performance of the seed. A variant of the tine (or delivery device more generally) may be configured to deliver material (e.g. seed) to one depth (e.g. the GOD) whilst sensing conditions above and below that depth. The sensor output can be processed on-board the row unit. This may be advantageous as the speed at which the row unit travels and/or the volume of data generated by the sensors may cause latency issues when using an external data engine. Furthermore, wireless data communication networks and/or wireless fidelity networks may not be present on large farms, and in some situations when they are present, may not be sufficiently reliable for this purpose.</p>
+    <p id="p-0073" num="0086">
+      <figref idref="DRAWINGS">FIGS. 4 and 5</figref> illustrate two scenarios in which condition profile information may be particularly advantageous. <figref idref="DRAWINGS">FIG. 4</figref> illustrates dry soil after a long period without rain. In this scenario, seed might be ‘dry sown’ at a minimal depth in the hope that the rains will come. If, for example, a seed-planting device having a moisture sensing firmer was planting from right to left, seeds may well be dry sown across the entire field. In accordance with preferred variants of the disclosure, the tine <b>19</b>, during its periodic hunt for moisture, may well locate the area of moisture M at depth, whereat the seeds can be sown for improved yield. As the unit <b>1</b> passes that moist patch, it automatically reconfigures itself to resume dry sowing.</p>
+    <p id="p-0074" num="0087">
+      <figref idref="DRAWINGS">FIG. 5</figref> illustrates another example wherein the soil condition profile has a local extrema in which other soil-sensing planting arrangements might be trapped. The cross-section of <figref idref="DRAWINGS">FIG. 5</figref> corresponds to typical soil shortly after rain. Towards the top right of the illustration is a region of soil having a target moisture level, whereas deeper down there is a larger area of soil within target parameters in which seeds are likely to perform better. By building up the soil profile information, preferred variants of the disclosure not only follow the target conditions but seek out the best possible target conditions.</p>
+    <p id="p-0075" num="0088">The disclosure is not limited to the examples described herein. By way of example, whilst various examples entailing automated material-delivery mechanisms responsive to the sensing arrangement have been described, some variants of the hardware may entail a display for displaying soil profile information to an operator, to enable the operator to respond to that information, e.g. to cease planting (or otherwise delivering material) or to otherwise control the material-delivery mechanism. Some variants of the hardware may entail a display in addition to an automated response, e.g. an operator may be permitted to override automated decisions to facilitate decision-making based on external information and/or human intuition.</p>
+    <p id="p-0076" num="0089">In some variations of the disclosure, the soil sensing tine can be supplied as a retro-fit solution to original manufactures equipment. In some variations of the disclosure, the soil sensing tine can replace the tine of an existing seed planting device.</p>
+    <p id="p-0077" num="0090">In the claims which follow and in the preceding description, except where the context requires otherwise due to express language or necessary implication, the word “comprise” or variations such as “comprises” or “comprising” is used in an inclusive sense, i.e. to specify the presence of the stated features but not to preclude the presence or addition of further features in various embodiments of the apparatus and method.</p>
+  </description>
+  <claims lang="en" load-source="national-office" data-format="original">
+    <claim num="1" id="CLM-1">
+      <claim-text>
+        <b>1</b>. An apparatus for seeding soil, comprising
+<claim-text>a soil-sensing arrangement comprising one or more soil-sensing elements that are integrated with one or more leading soil-engaging tines, the one or more soil-sensing elements being configured to sense one or more conditions of the soil at different depths and thereby adjust the one or more leading soil-engaging tines to one of the sensed different depths;</claim-text><claim-text>a seed-delivery mechanism, the seed-delivery mechanism being configured to respond on the fly to the soil-sensing arrangement to deliver at least most of the seed to said one of the sensed different depths, being a locally-optimised depth.</claim-text></claim-text>
+    </claim>
+    <claim num="2" id="CLM-2">
+      <claim-text>
+        <b>2</b>. The apparatus of <claim-ref idref="CLM-1">claim 1</claim-ref>, wherein the seed-delivery mechanism is integrated with the one or more leading soil-engaging tines.</claim-text>
+    </claim>
+    <claim num="3" id="CLM-3">
+      <claim-text>
+        <b>3</b>. The apparatus of <claim-ref idref="CLM-1">claim 1</claim-ref>, wherein the soil-sensing arrangement is configured to, at least periodically, sense at two or more of the different depths at mutually differing proximities to the locally-optimised depth.</claim-text>
+    </claim>
+    <claim num="4" id="CLM-4">
+      <claim-text>
+        <b>4</b>. The apparatus of <claim-ref idref="CLM-3">claim 3</claim-ref>, the soil-sensing arrangement comprising two or more of the soil-sensing elements arranged to sense at the mutually differing depths.</claim-text>
+    </claim>
+    <claim num="5" id="CLM-5">
+      <claim-text>
+        <b>5</b>. The apparatus of <claim-ref idref="CLM-1">claim 1</claim-ref>, wherein at least one of the one or more soil sensing elements has sensing portions spaced to sense at the different depths.</claim-text>
+    </claim>
+    <claim num="6" id="CLM-6">
+      <claim-text>
+        <b>6</b>. The apparatus of <claim-ref idref="CLM-1">claim 1</claim-ref>, wherein the soil-sensing arrangement is configured to at least periodically move at least one of the leading soil-engaging tines, and thereby move at least one of the one or more soil-sensing elements, in response to the conditions of the soil at the different depths.</claim-text>
+    </claim>
+    <claim num="7" id="CLM-7">
+      <claim-text>
+        <b>7</b>. The apparatus of <claim-ref idref="CLM-1">claim 1</claim-ref>, wherein at least one of the one or more leading soil-engaging tines is shaped to pull down when moved horizontally through the soil.</claim-text>
+    </claim>
+    <claim num="8" id="CLM-8">
+      <claim-text>
+        <b>8</b>. The apparatus of <claim-ref idref="CLM-1">claim 1</claim-ref>, comprising at least one seed outlet of the seed-delivery mechanism that is fixed relative to at least one of the one or more leading soil-engaging tines.</claim-text>
+    </claim>
+    <claim num="9" id="CLM-9">
+      <claim-text>
+        <b>9</b>. The apparatus of <claim-ref idref="CLM-1">claim 1</claim-ref>, wherein the seed-delivery mechanism is responsive to the soil-sensing arrangement to vary a seeding rate.</claim-text>
+    </claim>
+    <claim num="10" id="CLM-10">
+      <claim-text>
+        <b>10</b>. The apparatus of <claim-ref idref="CLM-1">claim 1</claim-ref>, wherein the one or more soil conditions comprise soil moisture.</claim-text>
+    </claim>
+    <claim num="11" id="CLM-11">
+      <claim-text>
+        <b>11</b>. The apparatus of <claim-ref idref="CLM-1">claim 1</claim-ref>, wherein the seed-delivery mechanism is responsive to input indicative of a drag on at least one of the one or more leading soil-engaging tines.</claim-text>
+    </claim>
+    <claim num="12" id="CLM-12">
+      <claim-text>
+        <b>12</b>. The apparatus of <claim-ref idref="CLM-11">claim 11</claim-ref> wherein the input indicative of the drag is measured by a mechanism that comprises a strain gauge and/or a load cell.</claim-text>
+    </claim>
+    <claim num="13" id="CLM-13">
+      <claim-text>
+        <b>13</b>. A method of delivering a seed to soil, the method comprising:
+<claim-text>opening the soil with one or more leading soil-engaging tines;</claim-text><claim-text>sensing one or more conditions of the soil at different depths as the soil is opened;</claim-text><claim-text>adjusting the one or more leading soil-engaging tines to one of the sensed depths;</claim-text><claim-text>adjusting a depth of the seed delivery on the fly to said one of the sensed depths, being a locally-optimised depth, and delivering at least most of the seed into the opened soil, in response to the sensed one or more conditions of the soil.</claim-text></claim-text>
+    </claim>
+    <claim num="14" id="CLM-14">
+      <claim-text>
+        <b>14</b>. The method of <claim-ref idref="CLM-13">claim 13</claim-ref>, wherein the one or more leading soil-engaging tines are integrated with one or more soil-sensing elements, the one or more soil-sensing elements being configured to sense one or more conditions of the soil at different depths.</claim-text>
+    </claim>
+    <claim num="15" id="CLM-15">
+      <claim-text>
+        <b>15</b>. The method of <claim-ref idref="CLM-14">claim 14</claim-ref>, wherein the one or more soil-sensing elements are configured to, at least periodically, sense at two or more of the different depths at mutually differing proximities to the locally-optimised depth.</claim-text>
+    </claim>
+    <claim num="16" id="CLM-16">
+      <claim-text>
+        <b>16</b>. (canceled)</claim-text>
+    </claim>
+    <claim num="17" id="CLM-17">
+      <claim-text>
+        <b>17</b>. A method of delivering a seed to soil using the apparatus of <claim-ref idref="CLM-1">claim 1</claim-ref>, the method comprising:
+<claim-text>opening the soil with one or more leading soil-engaging tines;</claim-text><claim-text>sensing one or more conditions of the soil at different depths as the soil is opened;</claim-text><claim-text>adjusting the one or more leading soil-engaging tines to one of the sensed depths;</claim-text><claim-text>adjusting a depth of the seed delivery on the fly to said one of the sensed depths, being a locally-optimised depth, and delivering at least most of the seed into the opened soil, in response to the sensed one or more conditions of the soil.</claim-text></claim-text>
+    </claim>
+    <claim num="18" id="CLM-18">
+      <claim-text>
+        <b>18</b>. The method of <claim-ref idref="CLM-17">claim 17</claim-ref>, wherein the one or more leading soil-engaging tines are integrated with one or more soil-sensing elements, the one or more soil-sensing elements being configured to sense one or more conditions of the soil at different depths.</claim-text>
+    </claim>
+    <claim num="19" id="CLM-19">
+      <claim-text>
+        <b>19</b>. The method of <claim-ref idref="CLM-18">claim 18</claim-ref>, wherein the one or more soil-sensing elements are configured to, at least periodically, sense at two or more of the different depths at mutually differing proximities to the locally-optimised depth.</claim-text>
+    </claim>
+  </claims>
+  <copyright>User is aware and acknowledges that Lighthouse IP shall retain all right, title and interest in and to this record and its structure under relevant and applicable copyright laws. User receives no ownership or any other rights to this record and its structure. User is aware and confirms accepting the terms and conditions of use as defined in the relevant user agreement either with Lighthouse IP or with its partner(s). This product may contain data sourced from EPO databases, © European Patent Organisation.</copyright>
+</patent-document>

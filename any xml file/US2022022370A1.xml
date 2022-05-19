@@ -1,0 +1,1272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<patent-document country="US" doc-number="2022022370" kind="A1" date-publ="20220127" invention-id="161806270" lhip-id="LH362954107" date-export="20220331" xsd-version="1.5.2">
+  <bibliographic-data>
+    <publication-references>
+      <publication-reference load-source="docdb" data-format="docdb" doc-id="565136443" family-id="79687278" is-representative="NO">
+        <document-id>
+          <country>US</country>
+          <doc-number>2022022370</doc-number>
+          <kind>A1</kind>
+          <date>20220127</date>
+          <lang>en</lang>
+        </document-id>
+      </publication-reference>
+      <publication-reference load-source="docdb" data-format="original">
+        <document-id>
+          <doc-number>20220022370</doc-number>
+        </document-id>
+      </publication-reference>
+      <publication-reference load-source="docdb" data-format="epodoc">
+        <document-id>
+          <doc-number>US2022022370</doc-number>
+          <lang>en</lang>
+        </document-id>
+      </publication-reference>
+      <publication-reference load-source="national-office" data-format="original">
+        <document-id>
+          <country>US</country>
+          <doc-number>20220022370</doc-number>
+          <kind>A1</kind>
+          <date>20220127</date>
+          <lang>en</lang>
+        </document-id>
+      </publication-reference>
+    </publication-references>
+    <application-references>
+      <application-reference load-source="national-office" data-format="original">
+        <document-id>
+          <country>US</country>
+          <doc-number>17467258</doc-number>
+          <date>20210905</date>
+          <lang>en</lang>
+        </document-id>
+      </application-reference>
+      <application-reference is-representative="YES" doc-id="565136442" load-source="docdb" data-format="docdb">
+        <document-id>
+          <country>US</country>
+          <doc-number>202117467258</doc-number>
+          <kind>A</kind>
+          <date>20210905</date>
+        </document-id>
+      </application-reference>
+      <application-reference load-source="docdb" data-format="epodoc">
+        <document-id>
+          <doc-number>US202117467258</doc-number>
+        </document-id>
+      </application-reference>
+      <application-reference load-source="docdb" data-format="original">
+        <document-id>
+          <doc-number>17467258</doc-number>
+        </document-id>
+      </application-reference>
+    </application-references>
+    <priority-claims>
+      <priority-claim sequence="1" load-source="docdb" data-format="docdb" doc-id="565136442">
+        <document-id>
+          <country>US</country>
+          <doc-number>202117467258</doc-number>
+          <kind>A</kind>
+          <date>20210905</date>
+        </document-id>
+        <priority-active-indicator>Y</priority-active-indicator>
+      </priority-claim>
+      <priority-claim sequence="1" load-source="docdb" data-format="epodoc">
+        <document-id>
+          <doc-number>US202117467258</doc-number>
+        </document-id>
+      </priority-claim>
+      <priority-claim sequence="2" load-source="docdb" data-format="docdb" doc-id="512354423">
+        <document-id>
+          <country>US</country>
+          <doc-number>201715807566</doc-number>
+          <kind>A</kind>
+          <date>20171108</date>
+        </document-id>
+        <priority-linkage-type>2</priority-linkage-type>
+        <priority-active-indicator>Y</priority-active-indicator>
+      </priority-claim>
+      <priority-claim sequence="2" load-source="docdb" data-format="epodoc">
+        <document-id>
+          <doc-number>US201715807566</doc-number>
+        </document-id>
+      </priority-claim>
+      <priority-claim sequence="1" load-source="docdb" data-format="original">
+        <document-id>
+          <doc-number>15807566</doc-number>
+        </document-id>
+      </priority-claim>
+    </priority-claims>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1" load-source="national-office">
+        <text>A01D  34/00        20060101AFI20220127BHUS        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="1" load-source="docdb">
+        <text>A01D  34/00        20060101AFI20220127BHUS        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <classifications-cpc>
+      <classification-cpc sequence="1" load-source="national-office">
+        <classification-scheme office="US" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A01D  34/001       </classification-symbol>
+        <classification-level>C</classification-level>
+        <symbol-position>F</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20220127</date>
+        </action-date>
+      </classification-cpc>
+      <classification-cpc sequence="2" load-source="national-office">
+        <classification-scheme office="US" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A01D2101/00        </classification-symbol>
+        <classification-level>C</classification-level>
+        <symbol-position>L</symbol-position>
+        <classification-value>A</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20220127</date>
+        </action-date>
+      </classification-cpc>
+      <classification-cpc sequence="1" load-source="docdb">
+        <classification-scheme office="EP" scheme="CPCI">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A01D  75/20        </classification-symbol>
+        <symbol-position>F</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <generating-office>EP</generating-office>
+        <action-date>
+          <date>20220215</date>
+        </action-date>
+      </classification-cpc>
+      <classification-cpc sequence="2" load-source="docdb">
+        <classification-scheme office="EP" scheme="CPCI">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A01K  55/00        </classification-symbol>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <generating-office>EP</generating-office>
+        <action-date>
+          <date>20220215</date>
+        </action-date>
+      </classification-cpc>
+      <classification-cpc sequence="3" load-source="docdb">
+        <classification-scheme office="EP" scheme="CPCI">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A01M  29/10        </classification-symbol>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <generating-office>EP</generating-office>
+        <action-date>
+          <date>20220215</date>
+        </action-date>
+      </classification-cpc>
+      <classification-cpc sequence="4" load-source="docdb">
+        <classification-scheme office="EP" scheme="CPCI">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A01M  29/12        </classification-symbol>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <generating-office>EP</generating-office>
+        <action-date>
+          <date>20220215</date>
+        </action-date>
+      </classification-cpc>
+      <classification-cpc sequence="5" load-source="docdb">
+        <classification-scheme office="EP" scheme="CPCI">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A01M  29/16        </classification-symbol>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <generating-office>EP</generating-office>
+        <action-date>
+          <date>20220215</date>
+        </action-date>
+      </classification-cpc>
+      <classification-cpc sequence="6" load-source="docdb">
+        <classification-scheme office="EP" scheme="CPCI">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A01M  29/28        </classification-symbol>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <generating-office>EP</generating-office>
+        <action-date>
+          <date>20220215</date>
+        </action-date>
+      </classification-cpc>
+      <classification-cpc sequence="7" load-source="docdb">
+        <classification-scheme office="EP" scheme="CPCI">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A01D2101/00        </classification-symbol>
+        <symbol-position>L</symbol-position>
+        <classification-value>A</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <generating-office>US</generating-office>
+        <action-date>
+          <date>20220127</date>
+        </action-date>
+      </classification-cpc>
+      <classification-cpc sequence="8" load-source="docdb">
+        <classification-scheme office="EP" scheme="CPCI">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A01D  34/001       </classification-symbol>
+        <symbol-position>F</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <generating-office>US</generating-office>
+        <action-date>
+          <date>20220127</date>
+        </action-date>
+      </classification-cpc>
+    </classifications-cpc>
+    <parties>
+      <applicants>
+        <applicant sequence="1" load-source="national-office" data-format="original" designation="us-only" type="individual">
+          <addressbook>
+            <last-name>Hess</last-name>
+            <first-name>James Steven</first-name>
+            <address>
+              <city>New Castle</city>
+              <state>IN</state>
+              <country>US</country>
+            </address>
+          </addressbook>
+          <residence>
+            <country>US</country>
+          </residence>
+          <us-rights />
+        </applicant>
+        <applicant sequence="1" load-source="docdb" data-format="docdb" type="individual">
+          <addressbook>
+            <name>HESS JAMES STEVEN</name>
+          </addressbook>
+          <residence>
+            <country>US</country>
+          </residence>
+        </applicant>
+        <applicant sequence="1" load-source="docdb" data-format="docdba" type="individual">
+          <addressbook>
+            <name>Hess James Steven</name>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor sequence="1" load-source="national-office" data-format="original" designation="us-only">
+          <addressbook>
+            <last-name>Hess</last-name>
+            <first-name>James Steven</first-name>
+            <address>
+              <city>New Castle</city>
+              <state>IN</state>
+              <country>US</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor sequence="1" load-source="docdb" data-format="docdb">
+          <addressbook>
+            <name>HESS JAMES STEVEN</name>
+          </addressbook>
+          <residence>
+            <country>US</country>
+          </residence>
+        </inventor>
+        <inventor sequence="1" load-source="docdb" data-format="docdba">
+          <addressbook>
+            <name>Hess, James Steven</name>
+          </addressbook>
+        </inventor>
+      </inventors>
+    </parties>
+    <invention-title lang="en" load-source="national-office" data-format="original">Lawn mower Diverter/ Bee Guard or accessory warning device for diverting and saving honeybees and other endangered insects</invention-title>
+    <invention-title lang="en" load-source="docdb" data-format="docdba">Lawn mower Diverter/ Bee Guard or accessory warning device for diverting and saving honeybees and other endangered insects</invention-title>
+    <related-documents>
+      <relation type="continuation-in-part" load-source="national-office" data-format="original">
+        <child-doc>
+          <document-id>
+            <country>US</country>
+            <doc-number>17467258</doc-number>
+          </document-id>
+        </child-doc>
+        <parent-doc>
+          <document-id>
+            <country>US</country>
+            <doc-number>15807566</doc-number>
+            <date>20171108</date>
+          </document-id>
+        </parent-doc>
+        <parent-grant-doc>
+          <document-id>
+            <country>US</country>
+            <doc-number>11160212</doc-number>
+          </document-id>
+        </parent-grant-doc>
+      </relation>
+    </related-documents>
+    <dates-of-public-availability>
+      <unexamined-printed-without-grant>
+        <document-id>
+          <date>20220127</date>
+        </document-id>
+      </unexamined-printed-without-grant>
+    </dates-of-public-availability>
+  </bibliographic-data>
+  <abstract lang="en" load-source="national-office" data-format="original">
+    <p id="p-0001" num="0000">A Lawn mower Diverter/Bee Guard or accessory warning device for diverting and saving honeybees and other endangered insects. The device components include a plate for removably securing the warning device to the mower deck; a manner for removably connecting and securing the plate to the deck; a warning emitter; and a way for securing a warning emitter to the plate. Alternative mechanical designs and light, sound, electro-magnetic force, and spray devices are shown as other embodiments. The warning device alerts the pollinating bees of the oncoming mower so the bees can survive by flying away and averting their demise by the mower. Alternative devices for warning are sound, light, smoke, spray, and Electro Magnetic force/pulse generators placed with the mowers.</p>
+    <img file="US2022022370A1_A0001.tif" />
+  </abstract>
+  <abstract lang="en" load-source="docdb" data-format="docdba" abstract-source="national-office">
+    <p>A Lawn mower Diverter/Bee Guard or accessory warning device for diverting and saving honeybees and other endangered insects. The device components include a plate for removably securing the warning device to the mower deck; a manner for removably connecting and securing the plate to the deck; a warning emitter; and a way for securing a warning emitter to the plate. Alternative mechanical designs and light, sound, electro-magnetic force, and spray devices are shown as other embodiments. The warning device alerts the pollinating bees of the oncoming mower so the bees can survive by flying away and averting their demise by the mower. Alternative devices for warning are sound, light, smoke, spray, and Electro Magnetic force/pulse generators placed with the mowers.</p>
+  </abstract>
+  <description lang="en" load-source="national-office" data-format="original">
+    <?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="lead"?>
+    <heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATIONS</heading>
+    <p id="p-0002" num="0001">This application for a honeybee guard/diverter device and warning system is a Continuation-in-Part [C.I.P.] filed under 37 CFR 1.53(b) and claims the benefit of the original, non-provisional (Regular Utility) U.S. patent application Ser. No. 15/807,566 filed and submitted Nov. 8, 2017. and published as US 2019/0133090-A1 on May 9, 2019. The original application was still active on the date of the submission of this C.I.P. The original is entitled a “Lawn mower plow or accessory warning device for diverting and saving honeybees and other endangered insects” and was submitted by James Steven Hess, inventor. The original application is incorporated fully by reference as if it were reproduced here, verbatim.</p>
+    <?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="tail"?>
+    <?summary-of-invention description="Summary of Invention" end="lead"?>
+    <heading id="h-0002" level="1">FIELD OF INVENTION</heading>
+    <p id="p-0003" num="0002">This invention relates to a special and unique lawn mower device that is a set of small, mower deck mounted mechanical diverters or accessory warning devices for diverting and saving honeybees and other endangered insects. Particularly this device or system is related to a warning mechanism to achieve the attention of bees and other insects and divert them from the dangers of an oncoming mowing device or the like. Alternative devices for warning are sound, light, smoke, spray, and Electro Magnetic force/pulse generators placed with the mowers. These devices are collectively called the Zee Farmer bee guard.</p>
+    <p id="p-0004" num="0003">The Lawn mower diverter or accessory warning device is a readily made and available device that is secured to the zero turn or bat-wing multiple mower decks and affords the bees a warning of the dangers of an oncoming mower. The applications anticipate original equipment with new mowers and lawn equipment or after-market sales of the devices for existing mowers and equipment.</p>
+    <heading id="h-0003" level="1">FEDERALLY SPONSORED RESEARCH</heading>
+    <p id="p-0005" num="0004">None.</p>
+    <heading id="h-0004" level="1">SEQUENCE LISTING OR PROGRAM</heading>
+    <p id="p-0006" num="0005">None.</p>
+    <heading id="h-0005" level="1">BACKGROUND</heading>
+    <heading id="h-0006" level="1">Field of Invention and Prior Art</heading>
+    <p id="p-0007" num="0006">As far as known, there are no lawn mower small, mower deck mounted mechanical diverters or accessory warning devices for diverting and saving honeybees and other endangered insects or similar devices. It is believed that this product is unique in its design and technologies.</p>
+    <heading id="h-0007" level="1">Background</heading>
+    <p id="p-0008" num="0007">This background as to bees and their habitats and customs should be useful in understanding the importance of the small, mower deck mounted mechanical diverters or accessory warning devices for diverting and saving honeybees and other endangered insects. Bees play an important role in pollinating flowering plants and are the major type of pollinator in many ecosystems that contain flowering plants. It is estimated that one third of the human food supply depends on pollination by insects, birds, and bats, most of which is accomplished by bees, whether wild or domesticated. From 1972 to 2006, feral honeybees declined dramatically in the US, and they are now almost absent. The number of colonies kept by beekeepers declined slightly, through urbanization, systematic pesticide use, tracheal and <i>Varroa </i>mites, and the closure of beekeeping businesses. In 2006 and 2007 the rate of attrition increased and was described as colony collapse disorder. In 2010 invertebrate iridescent virus and the fungus <i>Nosema ceranae </i>were shown to be in every killed colony, and deadly in combination. Apart from colony collapse disorder, losses outside the US have been attributed to causes including pesticide seed dressings, such as Clothianidin, Imidacloprid and Thiamethoxam. From 2013 the European Union restricted some pesticides to stop bee populations from declining further. In 2014 the Inter-governmental Panel on Climate Change report warned that bees may face increased risk of extinction because of global warming. Finally, the White Dutch clover has been added to grass seed, commercially sold in America, last several decades is preferred over naturally growing clover here. It keeps broadleaf weeds reduced or “down better”. These are large White Dutch clover area are killing zones. In the last 10 years various studies have indicated a decline worldwide where clover is, and these zero turn mowers are sold. The mowers are a main problem in the reduction of bee population.</p>
+    <p id="p-0009" num="0008">Bees are flying insects closely related to wasps and ants, known for their role in pollination and, in the case of the best-known bee species, the European honeybee, for producing honey and beeswax. The three types of honeybees in a hive are: queens (egg-producers), workers (non-reproducing females), and drones (males whose main duty is to find and mate with a queen). Solitary bees are important pollinators; they gather pollen to provision their nests with food for their brood. Often it is mixed with nectar to form a paste-like consistency. Some solitary bees have advanced types of pollen-carrying structures on their bodies. Bees are a monophyletic lineage within the superfamily Apoidea and are presently considered a clade, called Anthophila. There are nearly 20,000 known species of bees in seven recognized biological families. They are found on every continent except <i>Antarctica </i>and in every habitat on the planet that contains insect-pollinated flowering plants. Some species including honeybees, bumblebees, and stingless bees live socially in colonies. Bees are adapted for feeding on nectar and pollen, the former primarily as an energy source and the latter primarily for protein and other nutrients. Most bees are polylectic (generalist) meaning they collect pollen from a range of flowering plants; however, some are oligolectic (bee specialists), in that they only gather pollen from one or a few species or genera of closely related plants. Specialist pollinators also include bee species which gather floral oils instead of pollen, and male orchid bees, which gather aromatic compounds from orchids (one of the few cases where male bees are effective pollinators). Bees can sense the presence of desirable flowers through ultraviolet patterning on flowers, floral odors, and even electromagnetic fields. Once landed, a bee then uses nectar quality and pollen taste to determine whether to continue visiting similar flowers. Most pollen is used as food for larvae. Bee pollination is important both ecologically and commercially; the decline in wild bees has increased the value of pollination by commercially managed hives of honeybees.</p>
+    <p id="p-0010" num="0009">Bees see all colors except the color red. That and their sense of smell help them find the flowers they need to collect pollen. Not only is pollen a food source for bees, but also some of the pollen is dropped in flight, resulting in cross pollination. The relationship between the plant and the insect is called symbiosis. A bee has a pair of large compound eyes which cover much of the surface of the head. Between and above these are three small simple eyes (ocelli) which provide information for the bee on light intensity. The antennae usually have thirteen segments in males and twelve in females and are geniculate, having an elbow joint part way along. They house large numbers of sense organs that can detect touch (mechanoreceptors), smell and taste, and small, hair-like mechanoreceptors that can detect air movement to “hear” sounds. The mouthparts are adapted for both chewing and sucking by having both a pair of mandibles and a long proboscis for sucking up nectar.</p>
+    <p id="p-0011" num="0010">Often Beekeepers use smoke to calm bees when they are collecting honey or relocating a hive. Noise and acoustic sounds can impact bee behavior. In D'Arcy Thompson's translation: “At early dawn they make no noise, until someone particular bee makes a buzzing noise two or three times and thereby awakes the rest; hereupon they all fly in a body to work. By and by they return and at first are noisy; . . . until at last someone bee flies round about, making a buzzing noise, and apparently calling on the others to go to sleep”.</p>
+    <heading id="h-0008" level="2">Problem Solved</heading>
+    <p id="p-0012" num="0011">The last 10 years have noticed decline worldwide where clover is, and these zero turn mowers are sold. The improvement and problem solved as to bee population is to provide a small, mower deck mounted mechanical diverters or accessory warning devices for diverting and saving honeybees and other endangered insects. Alternative means to alert such as sound, light, and electromagnetic forces are also anticipated as a solution to killing the bees with the fast mowers of today.</p>
+    <heading id="h-0009" level="1">SUMMARY OF THE INVENTION</heading>
+    <p id="p-0013" num="0012">This invention is a Lawn mower Diverter/Bee Guard or accessory warning device for diverting and saving honeybees and other endangered insects. Alternative mechanical designs and light, sound, electro-magnetic force, and spray devices are shown as alternative embodiments.</p>
+    <p id="p-0014" num="0013">The preferred embodiment of a lawn mower diverter or accessory warning device for diverting and saving honeybees and other endangered insects is comprised of: an accessory warning device configured as a long plate diverter guard for diverting and saving a group of pollinating honeybees and other endangered insects, the long plate diverter guard being mounted to a front vertical drop of a deck of a mower, being made of durable materials, and being comprised of a. a vertical face with a front surface and a back surface the vertical face having at least two aperture to accept a means for removably fastening the long plate diverter guard to mower deck; b. a horizontal face with a top surface and bottom surface; c. a kick-up angle feature; and d. the vertical face, horizontal face, and kick-up angle feature being a continual thickness wherein the warning device alerts the pollinating bees of the oncoming mower by spreading the grass and deflecting a body of the pollinating bee so the bees can survive by flying away and averting their demise by the mower. Alternative devices for warning are sound, light, smoke, spray, and Electro Magnetic force/pulse generators placed with the mowers.</p>
+    <p id="p-0015" num="0014">The newly invented Lawn mower Diverter/Bee Guard or accessory warning device for diverting and saving honeybees and other endangered insects can be manufactured at low volumes by very simple means and in high volume production by more complex and controlled systems.</p>
+    <heading id="h-0010" level="1">Objects and Advantages</heading>
+    <p id="p-0016" num="0015">There are several objects and advantages of the small, mower deck mounted mechanical diverters or accessory warning devices for diverting and saving honeybees and other endangered insects. There are currently no known devices that are effective at providing the objects of this invention. These devices, based on a novelty search, have no other devices that anticipate nor render obvious this solution to the mowing deaths of the bee population.</p>
+    <p id="p-0017" num="0016">The Zee Farmer bee guard device has various advantages and benefits:</p>
+    <p id="p-0018" num="0000">
+      <tables id="TABLE-US-00001" num="00001">
+        <table frame="none" colsep="0" rowsep="0">
+          <tgroup align="left" colsep="0" rowsep="0" cols="2">
+            <colspec colname="1" colwidth="56pt" align="center" />
+            <colspec colname="2" colwidth="161pt" align="left" />
+            <thead>
+              <row>
+                <entry namest="1" nameend="2" align="center" rowsep="1" />
+              </row>
+              <row>
+                <entry>Item</entry>
+                <entry>Advantages</entry>
+              </row>
+              <row>
+                <entry namest="1" nameend="2" align="center" rowsep="1" />
+              </row>
+            </thead>
+            <tbody valign="top">
+              <row>
+                <entry>1</entry>
+                <entry>Is a universal design for attachments to zero</entry>
+              </row>
+              <row>
+                <entry />
+                <entry>turn, bat-wing multiple mower devices, and other</entry>
+              </row>
+              <row>
+                <entry />
+                <entry>current and future mower devices</entry>
+              </row>
+              <row>
+                <entry>2</entry>
+                <entry>Is comprised of parts to create bee diversion and</entry>
+              </row>
+              <row>
+                <entry />
+                <entry>distraction devices that are already produced—</entry>
+              </row>
+              <row>
+                <entry />
+                <entry>the components need to be adapted to mowing</entry>
+              </row>
+              <row>
+                <entry />
+                <entry>devices</entry>
+              </row>
+              <row>
+                <entry>3</entry>
+                <entry>Is environmentally safe for other plants, insects,</entry>
+              </row>
+              <row>
+                <entry />
+                <entry>humans, and animals</entry>
+              </row>
+              <row>
+                <entry>4</entry>
+                <entry>Can be used by commercial and private lawn care</entry>
+              </row>
+              <row>
+                <entry />
+                <entry>personnel</entry>
+              </row>
+              <row>
+                <entry>5</entry>
+                <entry>Is adaptable for mechanical, light, sound,</entry>
+              </row>
+              <row>
+                <entry />
+                <entry>electromagnetic forces, pneumatic pulses, and</entry>
+              </row>
+              <row>
+                <entry />
+                <entry>chemical deterrent means.</entry>
+              </row>
+              <row>
+                <entry>6</entry>
+                <entry>Provides a device to help lessen the loss of</entry>
+              </row>
+              <row>
+                <entry />
+                <entry>honeybees and other insects due to grass mowing</entry>
+              </row>
+              <row>
+                <entry />
+                <entry>while bees are pollinating</entry>
+              </row>
+              <row>
+                <entry>7</entry>
+                <entry>Promotes the elimination of colony collapse</entry>
+              </row>
+              <row>
+                <entry />
+                <entry>disorder by preserving enough bees to keep the</entry>
+              </row>
+              <row>
+                <entry />
+                <entry>hive alive and productive</entry>
+              </row>
+              <row>
+                <entry namest="1" nameend="2" align="center" rowsep="1" />
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </tables>
+    </p>
+    <p id="p-0019" num="0017">Finally, other advantages and additional features of the present lawn mower diverter or accessory warning device—for diverting and saving honeybees and other endangered insects—will be more apparent from the accompanying drawings and from the full description of the device. For one skilled in the art of bee preservation and protection of insects important to the ecological balance of nature, it is readily understood that the features shown in the examples with this product are readily adapted to other types of out bee protection systems and devices.</p>
+    <?summary-of-invention description="Summary of Invention" end="tail"?>
+    <?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+    <description-of-drawings>
+      <heading id="h-0011" level="1">DESCRIPTION OF THE DRAWINGS—FIGURES</heading>
+      <p id="p-0020" num="0018">The accompanying drawings, which are incorporated in and constitute a part of this specification, illustrate an embodiment of the small, mower deck mounted mechanical diverters or accessory warning devices for diverting and saving honeybees and other endangered insects for various applications device that is preferred. The drawings together with the summary description given above and a detailed description given below explain the principles of the Zee Farmer bee guard device. It is understood, however, that this warning device is not limited to only the precise arrangements and instrumentalities shown.</p>
+      <p id="p-0021" num="0019">
+        <figref idref="DRAWINGS">FIGS. 1</figref> A through <b>1</b> D are sketches of the general lawn mower diversion device for warning honeybees of oncoming mowers.</p>
+      <p id="p-0022" num="0020">
+        <figref idref="DRAWINGS">FIGS. 2</figref> A through <b>2</b> F are sketches of the general bee diversion device being mounted to mowers.</p>
+      <p id="p-0023" num="0021">
+        <figref idref="DRAWINGS">FIGS. 3</figref> A and <b>3</b> B are sketches of the bee diversion device mounting to gang and bat wing mowers.</p>
+      <p id="p-0024" num="0022">
+        <figref idref="DRAWINGS">FIG. 4</figref> is a list of typical means for diverting bees from mower devices.</p>
+      <p id="p-0025" num="0023">
+        <figref idref="DRAWINGS">FIGS. 5</figref> A through <b>5</b> I are sketches of physical/mechanical diversion devices to warn pollenating bees of an approaching mower.</p>
+      <p id="p-0026" num="0024">
+        <figref idref="DRAWINGS">FIGS. 6</figref> A through <b>6</b> C are sketches of mower accessories using various diversion means.</p>
+      <p id="p-0027" num="0025">
+        <figref idref="DRAWINGS">FIGS. 7</figref> A through <b>7</b> C are more sketches of mower accessories using various diversion means.</p>
+      <p id="p-0028" num="0026">
+        <figref idref="DRAWINGS">FIG. 8</figref> is a sketch of non-physical diversion systems for warning bees of an approaching mower.</p>
+      <p id="p-0029" num="0027">
+        <figref idref="DRAWINGS">FIG. 9</figref> is a sketch of a mower diverter in operation warning the pollination bees.</p>
+      <p id="p-0030" num="0028">
+        <figref idref="DRAWINGS">FIGS. 10</figref> A and <b>10</b> B are a sketch of the color spectrum and human versus bee vision plus a comparison sound/hearing chart.</p>
+      <p id="p-0031" num="0029">
+        <figref idref="DRAWINGS">FIGS. 11</figref> A through <b>11</b> C are sketches of the long plate diverter guard with features demonstrated.</p>
+      <p id="p-0032" num="0030">
+        <figref idref="DRAWINGS">FIG. 12</figref> is a sketch of the long plate diverter guard mounted to a zero-turn mower with features shown.</p>
+      <p id="p-0033" num="0031">
+        <figref idref="DRAWINGS">FIG. 13</figref> are tables showing bee diversion tests by the USDA of a mower with and without the long plate diverter guard.</p>
+    </description-of-drawings>
+    <?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+    <?detailed-description description="Detailed Description" end="lead"?>
+    <heading id="h-0012" level="1">DESCRIPTION OF THE DRAWINGS—REFERENCE NUMERALS</heading>
+    <p id="p-0034" num="0032">The following list refers to the drawings:</p>
+    <p id="p-0035" num="0000">
+      <tables id="TABLE-US-00002" num="00002">
+        <table frame="none" colsep="0" rowsep="0">
+          <tgroup align="left" colsep="0" rowsep="0" cols="1">
+            <colspec colname="1" colwidth="217pt" align="center" />
+            <thead>
+              <row>
+                <entry namest="1" nameend="1" rowsep="1">TABLE B</entry>
+              </row>
+            </thead>
+            <tbody valign="top">
+              <row>
+                <entry namest="1" nameend="1" align="center" rowsep="1" />
+              </row>
+              <row>
+                <entry>Reference numbers</entry>
+              </row>
+            </tbody>
+          </tgroup>
+          <tgroup align="left" colsep="0" rowsep="0" cols="3">
+            <colspec colname="offset" colwidth="28pt" align="left" />
+            <colspec colname="1" colwidth="42pt" align="left" />
+            <colspec colname="2" colwidth="147pt" align="left" />
+            <tbody valign="top">
+              <row>
+                <entry />
+                <entry>Ref #</entry>
+                <entry>Description</entry>
+              </row>
+              <row>
+                <entry />
+                <entry namest="offset" nameend="2" align="center" rowsep="1" />
+              </row>
+              <row>
+                <entry />
+                <entry> 30</entry>
+                <entry>bee diversion device 30 for lawn mower</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 31</entry>
+                <entry>physical/mechanical bee diversion device</entry>
+              </row>
+              <row>
+                <entry />
+                <entry />
+                <entry>31 with a warning emitter (protrusion)</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 32</entry>
+                <entry>diverter device 32</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 33</entry>
+                <entry>slat diversion device 33</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 34</entry>
+                <entry>rod diversion device 34</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 35</entry>
+                <entry>plate 35 for physical device 31</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 36</entry>
+                <entry>means 36 for removably fastening physical</entry>
+              </row>
+              <row>
+                <entry />
+                <entry />
+                <entry>device to mower deck such as threaded</entry>
+              </row>
+              <row>
+                <entry />
+                <entry />
+                <entry>fasteners, pins, clips, rivets, zip ties,</entry>
+              </row>
+              <row>
+                <entry />
+                <entry />
+                <entry>etc.</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 37</entry>
+                <entry>extension diverter 37</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 38</entry>
+                <entry>return or kick-up 38 to prevent device 31</entry>
+              </row>
+              <row>
+                <entry />
+                <entry />
+                <entry>from engaging the ground</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 39</entry>
+                <entry>extension slat 39</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 40</entry>
+                <entry>return kick up 40 of slat 39</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 41</entry>
+                <entry>extension rod 41</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 42</entry>
+                <entry>return kick up 42 of rod 41</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 45</entry>
+                <entry>means 45 to secure physical means 31 to</entry>
+              </row>
+              <row>
+                <entry />
+                <entry />
+                <entry>plate 35 such as welding, integral</entry>
+              </row>
+              <row>
+                <entry />
+                <entry />
+                <entry>molding, casting, epoxy adhesives etc.</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 50</entry>
+                <entry>non-mechanical means 50 for diverting bees</entry>
+              </row>
+              <row>
+                <entry />
+                <entry />
+                <entry>with a warning emitter</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 51</entry>
+                <entry>light devices 51 for diverting bees</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 52</entry>
+                <entry>ultraviolet 52 light devices</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 53</entry>
+                <entry>infrared 53 light device</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 54</entry>
+                <entry>laser 54 light device</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 55</entry>
+                <entry>strobe 55 light device</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 56</entry>
+                <entry>sound 56 diversion device</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 57</entry>
+                <entry>low frequency 57 sound diversion device</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 58</entry>
+                <entry>high frequency 58 sound diversion device</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 59</entry>
+                <entry>staccato sound 59 sound diversion device</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 60</entry>
+                <entry>base plate 60 to removably secure and</entry>
+              </row>
+              <row>
+                <entry />
+                <entry />
+                <entry>mount nonphysical means 50 to mower deck</entry>
+              </row>
+              <row>
+                <entry />
+                <entry />
+                <entry>100 means from</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 61</entry>
+                <entry>fastening 61 base plate 60 to deck 100</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 62</entry>
+                <entry>power source 62 battery, solar, etc.</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 63</entry>
+                <entry>means 63 to secure power source to base 60</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 64</entry>
+                <entry>conductors 64 from power source to using</entry>
+              </row>
+              <row>
+                <entry />
+                <entry />
+                <entry>device</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 65</entry>
+                <entry>means to mount 65 light sources on some</entry>
+              </row>
+              <row>
+                <entry />
+                <entry />
+                <entry>other to plate 60</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 66</entry>
+                <entry>light source for various types ultraviolet</entry>
+              </row>
+              <row>
+                <entry />
+                <entry />
+                <entry>52 infrareds 53 laser 54, and strobe 55</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 67</entry>
+                <entry>sound source 67 for various types of low</entry>
+              </row>
+              <row>
+                <entry />
+                <entry />
+                <entry>frequency 57, high frequency 58, staccato</entry>
+              </row>
+              <row>
+                <entry />
+                <entry />
+                <entry>59</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 67A</entry>
+                <entry>light emitter lenses 67A</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 67B</entry>
+                <entry>sound diverter speaker 67B</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 67C</entry>
+                <entry>other directional focus component 67C</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 68</entry>
+                <entry>list 68 of examples of means to divert</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 69</entry>
+                <entry>other diversion sources 69</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 70</entry>
+                <entry>operation 70 of bee diversion device 30 in</entry>
+              </row>
+              <row>
+                <entry />
+                <entry />
+                <entry>the grass 81</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 71</entry>
+                <entry>CO2, pheromone, smoke, water/water born</entry>
+              </row>
+              <row>
+                <entry />
+                <entry />
+                <entry>origin warning means 71</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 72</entry>
+                <entry>CO2 nozzle 72</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 73</entry>
+                <entry>CO2 expansion and controller box 73</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 74</entry>
+                <entry>air/pneumatic source and controller 74</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 75</entry>
+                <entry>bee vision vs human vision chart 75</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 76</entry>
+                <entry>EMF pulse generator 76</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 77</entry>
+                <entry>EMF pulse 77</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 78</entry>
+                <entry>bee hearing vs another animal hearing</entry>
+              </row>
+              <row>
+                <entry />
+                <entry />
+                <entry>chart 78</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 80</entry>
+                <entry>ground 80</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 81</entry>
+                <entry>grass and vegetation 81 to be mowed</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 85</entry>
+                <entry>clover and desired vegetation 85 for</entry>
+              </row>
+              <row>
+                <entry />
+                <entry />
+                <entry>pollenating</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 88</entry>
+                <entry>pollenating bees 88</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 90</entry>
+                <entry>moving ground 90 with diverting 30</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 93</entry>
+                <entry>other diversion devices 93</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 94</entry>
+                <entry>carbon dioxide 94 diversion device</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 95</entry>
+                <entry>smoke diversion and warning devices 95</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 96</entry>
+                <entry>pheromone 96 diversion device</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 97</entry>
+                <entry>electromagnetic pulse 97 diverter device</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 98</entry>
+                <entry>pneumatic pulse 98</entry>
+              </row>
+              <row>
+                <entry />
+                <entry> 99</entry>
+                <entry>chemical and water spray 99</entry>
+              </row>
+              <row>
+                <entry />
+                <entry>100</entry>
+                <entry>mower deck 100</entry>
+              </row>
+              <row>
+                <entry />
+                <entry>105</entry>
+                <entry>mower 105</entry>
+              </row>
+              <row>
+                <entry />
+                <entry>107</entry>
+                <entry>mower blades 107—rotating which kills</entry>
+              </row>
+              <row>
+                <entry />
+                <entry />
+                <entry>pollenating bees 88</entry>
+              </row>
+              <row>
+                <entry />
+                <entry>108</entry>
+                <entry>drive wheel 108 of mower 105</entry>
+              </row>
+              <row>
+                <entry />
+                <entry>109</entry>
+                <entry>deck wheel 109 of deck 100</entry>
+              </row>
+              <row>
+                <entry />
+                <entry>110</entry>
+                <entry>gang or bat wing 110 multiple mower</entry>
+              </row>
+              <row>
+                <entry />
+                <entry />
+                <entry>devices</entry>
+              </row>
+              <row>
+                <entry />
+                <entry>130</entry>
+                <entry>long plate diverter guard 130 extending</entry>
+              </row>
+              <row>
+                <entry />
+                <entry />
+                <entry>across front section of mower between the</entry>
+              </row>
+              <row>
+                <entry />
+                <entry />
+                <entry>drive wheel 108 and deck wheel 109, made</entry>
+              </row>
+              <row>
+                <entry />
+                <entry />
+                <entry>of a durable material such as a sheet or a</entry>
+              </row>
+              <row>
+                <entry />
+                <entry />
+                <entry>cast metal [cast aluminum, cast steel,</entry>
+              </row>
+              <row>
+                <entry />
+                <entry />
+                <entry>cast iron, formed steel, formed stainless</entry>
+              </row>
+              <row>
+                <entry />
+                <entry />
+                <entry>steel, and formed steel alloys], a polymer</entry>
+              </row>
+              <row>
+                <entry />
+                <entry />
+                <entry>[nylon, urethane, polyurethane, polyvinyl</entry>
+              </row>
+              <row>
+                <entry />
+                <entry />
+                <entry>chloride (PVS) and Acrylonitrile butadiene</entry>
+              </row>
+              <row>
+                <entry />
+                <entry />
+                <entry>styrene (ABS)], and a composite material</entry>
+              </row>
+              <row>
+                <entry />
+                <entry />
+                <entry>and the like</entry>
+              </row>
+              <row>
+                <entry />
+                <entry>132</entry>
+                <entry>vertical face 132 of long plate diverter</entry>
+              </row>
+              <row>
+                <entry />
+                <entry />
+                <entry>guard 130 with front surface 130F (toward</entry>
+              </row>
+              <row>
+                <entry />
+                <entry />
+                <entry>grass) and back surface 132B (toward</entry>
+              </row>
+              <row>
+                <entry />
+                <entry />
+                <entry>vertical downturn of mower deck 100)</entry>
+              </row>
+              <row>
+                <entry />
+                <entry>134</entry>
+                <entry>horizontal face 134 of long plate diverter</entry>
+              </row>
+              <row>
+                <entry />
+                <entry />
+                <entry>guard 130 with top surface 134T and bottom</entry>
+              </row>
+              <row>
+                <entry />
+                <entry />
+                <entry>surface 134B</entry>
+              </row>
+              <row>
+                <entry />
+                <entry>135</entry>
+                <entry>kick-up angle feature 135 of long plate</entry>
+              </row>
+              <row>
+                <entry />
+                <entry />
+                <entry>diverter guard 130</entry>
+              </row>
+              <row>
+                <entry />
+                <entry>136</entry>
+                <entry>aperture 136 circular, elongated slot,</entry>
+              </row>
+              <row>
+                <entry />
+                <entry />
+                <entry>square or the like</entry>
+              </row>
+              <row>
+                <entry />
+                <entry>138</entry>
+                <entry>return or kick-up 138 on the extended end</entry>
+              </row>
+              <row>
+                <entry />
+                <entry />
+                <entry>of the top surface 134T of horizontal face</entry>
+              </row>
+              <row>
+                <entry />
+                <entry />
+                <entry>134 to prevent device 31 from engaging the</entry>
+              </row>
+              <row>
+                <entry />
+                <entry />
+                <entry>ground</entry>
+              </row>
+              <row>
+                <entry />
+                <entry>139</entry>
+                <entry>thickness 139 of long plate diverter guard</entry>
+              </row>
+              <row>
+                <entry />
+                <entry />
+                <entry>130</entry>
+              </row>
+              <row>
+                <entry />
+                <entry>140</entry>
+                <entry>optional series of gusset 140 between top</entry>
+              </row>
+              <row>
+                <entry />
+                <entry />
+                <entry>surface 134T of horizontal face 134 and</entry>
+              </row>
+              <row>
+                <entry />
+                <entry />
+                <entry>front surface 132F of vertical face 132</entry>
+              </row>
+              <row>
+                <entry />
+                <entry>150</entry>
+                <entry>means 150 to secure gusset 140 to between</entry>
+              </row>
+              <row>
+                <entry />
+                <entry />
+                <entry>top face 134T of horizontal face 134 and</entry>
+              </row>
+              <row>
+                <entry />
+                <entry />
+                <entry>front face 132F of vertical face 132</entry>
+              </row>
+              <row>
+                <entry />
+                <entry />
+                <entry>welding, braze, integrally mold,</entry>
+              </row>
+              <row>
+                <entry />
+                <entry />
+                <entry>integrally cast or the like</entry>
+              </row>
+              <row>
+                <entry />
+                <entry>160</entry>
+                <entry>tests trial results 160 of experiments</entry>
+              </row>
+              <row>
+                <entry />
+                <entry />
+                <entry>using the long plate diverter guard 130 to</entry>
+              </row>
+              <row>
+                <entry />
+                <entry />
+                <entry>see how many bees 88 are diverted</entry>
+              </row>
+              <row>
+                <entry />
+                <entry namest="offset" nameend="2" align="center" rowsep="1" />
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </tables>
+    </p>
+    <heading id="h-0013" level="1">DETAILED DESCRIPTION OF PREFERRED EMBODIMENT</heading>
+    <p id="p-0036" num="0033">The present development is a small, mower deck mounted mechanical diverters or other accessory warning devices for diverting and saving honeybees and other endangered insects. This invention relates to a special and unique lawn mower device that is a set of small, mower deck mounted mechanical diverters or accessory warning devices for diverting and saving honeybees and other endangered insects. Particularly this device or system is related to a warning mechanism to achieve the attention of bees and other insects and divert them from the dangers of an oncoming mowing device or the like. Alternative devices for warning are sound, light, smoke, spray, and Electro Magnetic force/pulse generators placed with the mowers. These devices are collectively called the Zee Farmer bee guard.</p>
+    <p id="p-0037" num="0034">The advantages for the small, mower deck mounted mechanical diverters or accessory warning devices <b>30</b> for diverting and saving honeybees and other endangered insects device are listed above in the introduction. Succinctly the benefits are that the device:
+<ul id="ul0001" list-style="none"><li id="ul0001-0001" num="0000"><ul id="ul0002" list-style="none"><li id="ul0002-0001" num="0035">Is a universal design for attachments to zero turn, bat-wing multiple mower devices, and other current and future mower devices;</li><li id="ul0002-0002" num="0036">Is comprised of parts to create bee diversion and distraction devices that are already produced—the components need to be adapted to mowing devices;</li><li id="ul0002-0003" num="0037">Is environmentally safe for other plants, insects, humans, and animals;</li><li id="ul0002-0004" num="0038">Can be used by commercial and private lawn care personnel;</li><li id="ul0002-0005" num="0039">Is adaptable for mechanical, light, sound, electromagnetic forces, pneumatic pulses, and chemical deterrent means;</li><li id="ul0002-0006" num="0040">Provides a device to help lessen the loss of honeybees and other insects due to grass mowing while bees are pollinating; and</li><li id="ul0002-0007" num="0041">Promotes the elimination of colony collapse disorder by preserving enough bees to keep the hive alive and productive.</li></ul></li></ul></p>
+    <p id="p-0038" num="0042">The preferred embodiment of a lawn mower diverter or accessory warning device <b>30</b> for diverting and saving honeybees and other endangered insects is comprised of: an accessory warning device <b>30</b> configured as a long plate diverter guard <b>130</b> for diverting and saving a group of pollinating honeybees and other endangered insects, the long plate diverter guard being mounted to a front vertical drop of a deck of a mower, being made of durable materials, and being comprised of a. a vertical face <b>132</b> with a front surface <b>130</b>F and a back surface <b>132</b>B the vertical face having at least two aperture <b>136</b> to accept a means <b>36</b> for removably fastening the long plate diverter guard <b>130</b> to mower deck <b>100</b>; b. a horizontal face <b>134</b> with a top surface <b>134</b>T and bottom surface <b>134</b>B; c. a kick-up angle feature <b>135</b>; and d. the vertical face <b>132</b>, horizontal face <b>134</b>, and kick-up angle feature <b>135</b> being a continual thickness <b>139</b> wherein the warning device <b>30</b> alerts the pollinating bees of the oncoming mower by spreading the grass and deflecting a body of the pollinating bee so the bees can survive by flying away and averting their demise by the mower. Alternative devices for warning are sound, light, smoke, spray, and Electro Magnetic force/pulse generators placed with the mowers.</p>
+    <p id="p-0039" num="0043">There is shown in <figref idref="DRAWINGS">FIGS. 1-13</figref> a complete description and operative embodiment of the small, mower deck mounted mechanical diverters or accessory warning devices <b>30</b> for diverting and saving honeybees. In the drawings and illustrations, one notes well that the <figref idref="DRAWINGS">FIGS. 1-13</figref> demonstrate the general configuration and use of this product. The various example uses are in the operation and use section, below. It is understood, however, that the device <b>30</b> is not limited to only the precise arrangements and instrumentalities shown. Other examples of bee and insect diverting devices and uses are still understood by one skilled in the art of diversion devices to be within the scope and spirit shown here.</p>
+    <p id="p-0040" num="0044">
+      <figref idref="DRAWINGS">FIGS. 1</figref> A through <b>1</b> D are sketches of the general lawn mower diversion device <b>30</b> for warning honeybees <b>88</b> of on-coming mowers <b>105</b>. Shown in these sketches are a bee diversion device <b>30</b> for lawn mower; a physical/mechanical bee diversion device <b>31</b> with a warning emitter (protrusion); a diverter device <b>32</b>; a non-mechanical means <b>50</b> for diverting bees; and an operation <b>70</b> of bee diversion device <b>30</b> in the grass <b>81</b>.</p>
+    <p id="p-0041" num="0045">
+      <figref idref="DRAWINGS">FIGS. 2</figref> A through <b>2</b> F are sketches of the general bee diversion device <b>30</b> being mounted to mowers <b>105</b>. These sketches show the following components of the Zee Farmer bee guard: a diverter device <b>32</b>; a slat diversion device <b>33</b>; a rod diversion device <b>34</b>; a non-mechanical means <b>50</b> for diverting bees; a base plate <b>60</b> to removably secure and mount nonphysical means <b>50</b> to mower deck <b>100</b>; a mower deck <b>100</b>; and a mower <b>105</b>; a set of mower blades <b>107</b>—rotating that kills the pollenating bees <b>88</b>; a gang or bat wing <b>110</b> of multiple mower devices.</p>
+    <p id="p-0042" num="0046">
+      <figref idref="DRAWINGS">FIGS. 3</figref> A and <b>3</b> B are sketches of the bee diversion device mounting to gang and bat wing mowers. These sketches depict: a physical/mechanical bee diversion device <b>31</b>; a non-mechanical means <b>50</b> for diverting bees; and a gang or bat wing <b>110</b> of multiple mower devices.</p>
+    <p id="p-0043" num="0047">
+      <figref idref="DRAWINGS">FIG. 4</figref> is a chart <b>68</b> or list of examples of typical means for diverting bees from mower devices <b>105</b>. Portrayed in the lists are: a physical/mechanical bee diversion device <b>31</b>; a diverter device <b>32</b>; a slat diversion device <b>33</b>; a rod diversion device <b>34</b>; a light devices <b>51</b> for diverting bees; an ultraviolet <b>52</b> light devices; an infrared <b>53</b> light device; a laser <b>54</b> light device; a strobe <b>55</b> light device; a sound <b>56</b> diversion device; a low frequency <b>57</b> sound diversion device; a high frequency <b>58</b> sound diversion device; a staccato sound <b>59</b> diversion device or thumping impact noise; other diversion devices <b>93</b>; a carbon dioxide <b>94</b> diversion device; a smoke diversion device <b>95</b>; a pheromone <b>96</b> diversion device; an Electromagnetic pulse <b>97</b> diverter device; a pneumatic pulse <b>98</b>; and chemical spray <b>99</b> devices.</p>
+    <p id="p-0044" num="0048">
+      <figref idref="DRAWINGS">FIGS. 5</figref> A through <b>5</b> I am sketches of physical/mechanical diversion devices <b>31</b> to warn pollenating bees <b>88</b> of an approaching mower <b>105</b>. In these sketch front and side view are shown the following combination of components for a mechanical diverting device <b>31</b>: a diverter device <b>32</b>; a slat diversion device <b>33</b>; a rod diversion device <b>34</b>; a plate <b>35</b> for physical device <b>31</b>; a means <b>36</b> for removably fastening physical device to mower deck such as threaded fasteners, pins, rivets, clips, zip ties, etc.; an extension diverter <b>37</b>; a return on kick-up <b>38</b> to prevent device <b>31</b> from engaging the ground; an extension slat <b>39</b>; a return kick up <b>40</b> of slat <b>39</b>; an extension rod <b>41</b>; a return kick up <b>42</b> of rod <b>41</b>; and a means <b>45</b> to secure physical means <b>31</b> to plate <b>35</b> such as welding, integral molding, casting, epoxy adhesives, etc. These physical/mechanical devices can be made of various durable materials such as, for example and not as a limitation, cast metal, aluminum and iron, molded plastics, formed metal, steel, steel alloys, and composite materials, or the like.</p>
+    <p id="p-0045" num="0049">
+      <figref idref="DRAWINGS">FIGS. 6</figref> A through <b>6</b> C are sketches of mower accessories using various diversion means. For these sketches of a bee diversion device <b>30</b> for lawn mower, one sees: a non-mechanical means <b>50</b> for diverting bees; a light devices <b>51</b> for diverting bees; an ultraviolet <b>52</b> light devices; an infrared <b>53</b> light device; a laser <b>54</b> light device; a strobe <b>55</b> light device; a sound <b>56</b> diversion device; a low frequency <b>57</b> sound diversion device; a high frequency <b>58</b> sound diversion device; a staccato sound <b>59</b> diversion device or thumping impact noise; a base plate <b>60</b> to removably secure and mount nonphysical means <b>50</b> to mower deck <b>100</b>; a fastening <b>61</b> base plate <b>60</b> to deck <b>100</b>; a power source <b>62</b> battery, solar, etc.; a means <b>63</b> to secure power source to base <b>60</b>; a set of electrical conductors <b>64</b> from power source to using device; a means to mount <b>65</b> light source on some other to plate <b>60</b>; a light source for various types ultraviolet <b>52</b> infrareds <b>53</b> laser <b>54</b>, and strobe <b>55</b>; a sound source <b>67</b> for various types low frequency <b>57</b>, high frequency <b>58</b>, staccato <b>59</b>; etc.; a light emitter lenses <b>67</b>A; a sound diverter speaker <b>67</b>B; a group of other directional focus component <b>67</b>C; a set of other diversion sources <b>69</b>; other diversion devices <b>93</b>; a carbon dioxide <b>94</b> diversion device; a smoke diversion device <b>95</b>; a pheromone <b>96</b> diversion device; an Electromagnetic pulse <b>97</b> diverter device; a pneumatic pulse <b>98</b>; and a water and chemical spray <b>99</b>.</p>
+    <p id="p-0046" num="0050">
+      <figref idref="DRAWINGS">FIGS. 7</figref> A through <b>7</b> C are more sketches of mower accessories using various diversion means. These sketches show: a base plate <b>60</b> to removably secure and mount nonphysical means <b>50</b> to mower deck <b>100</b>; a fastening <b>61</b> base plate <b>60</b> to deck <b>100</b>; a power source <b>62</b> battery, solar, etc.; a means <b>63</b> to secure power source to base <b>60</b>; a set of electrical conductors <b>64</b> from power source to using device; a means to mount <b>65</b> source on some other to plate <b>60</b>; a sound source for various types pulses; a sound diverter speaker <b>67</b>B or projection director of the pulse; a <b>002</b>, pheromone, smoke, water/water born origin <b>71</b>; a CO2 nozzle <b>72</b>; a CO2 expansion and controller box <b>73</b>; an air/pneumatic source and controller <b>74</b>; an electro-magnetic (EMF) pulse generator <b>76</b>; an EMF pulse <b>77</b>; other diversion devices <b>93</b>; a carbon dioxide <b>94</b> diversion device; a smoke diversion device <b>95</b>; a pheromone <b>96</b> diversion device; an Electromagnetic pulse <b>97</b> diverter device; and a pneumatic pulse <b>98</b>.</p>
+    <p id="p-0047" num="0051">
+      <figref idref="DRAWINGS">FIG. 8</figref> is a sketch of non-physical diversion systems for warning bees of an approaching mower. This sketch shows and depicts: a base plate <b>60</b> to removably secure and mount nonphysical means <b>50</b> to mower deck <b>100</b>; a fastening <b>61</b> base plate <b>60</b> to deck <b>100</b>; a power source <b>62</b> battery, solar, etc.; a means <b>63</b> to secure power source to base <b>60</b>; a set of electrical conductors <b>64</b> from power source to using device; a means to mount <b>65</b> light source on some other to plate <b>60</b>; a light source <b>66</b> for various types ultraviolet <b>52</b> infrareds <b>53</b> laser <b>54</b>, and strobe <b>55</b>; a sound source <b>67</b> for various types low frequency <b>57</b>, high frequency <b>58</b>, staccato <b>59</b>; etc.; a light emitter lenses <b>67</b>A; a sound diverter speaker <b>67</b>B; a group of other directional focus component <b>67</b>C; and a mower deck <b>100</b>.</p>
+    <p id="p-0048" num="0052">
+      <figref idref="DRAWINGS">FIG. 9</figref> is a sketch of a mower diverter in operation warning the pollination bees. This is described below in the operations section.</p>
+    <p id="p-0049" num="0053">
+      <figref idref="DRAWINGS">FIGS. 10</figref> A and <b>10</b> B are a sketch of the color spectrum and human versus bee vision plus a comparison sound/hearing chart. Shown are a bee vision vs human vision chart <b>75</b> and a bee hearing vs other animal hearing chart <b>78</b>. As to color and light, objects, including living organisms, emit energy as electromagnetic radiation (heat) and light. The full range of wavelengths, extending from gamma rays to long radio waves, is referred to as the electromagnetic spectrum. Colors that humans see are only a very small part of the light spectrum. Humans base their color combinations on red, blue, and green, while bees base their colors on ultraviolet light, blue and green. This is the reason why bees can't see the color red. They don't have a photoreceptor for it. They can, however, see reddish wavelengths, such as yellow and orange. They can also see blue-green, blue, violet, and “bee's purple.” Bee's purple is a combination of yellow and ultraviolet light. That's why humans can't see it. The most likely colors to attract. bees, according to scientists, are purple, violet, and blue. Bees also can see color much faster than humans. Their color vision is the fastest in the animal world-five times faster than humans. The remarkable eyesight of bees has long been a source of fascination in the scientific community. A hundred years ago, Nobel Prize-winning scientist Karl von Frisch proved that bees could see color. The color humans see is based upon how a pigment absorbs and reflects light. When light hits an object, some is absorbed and some is reflected. Our eyes perceive the reflected portion as color. The brilliant color in flowers is a way of attracting pollinators, such as bees. The colors of flowers help target the areas of nectar. That's the reason why petals are usually a different color than leaves. Even though humans can see more colors, bees have a much broader range of color vision. Their ability to see ultraviolet light gives them an advantage when seeking nectar. Many patterns on flowers are invisible to humans. These nectar “bulls-eyes” are visible only to animals, such as bees, that can see ultra-violet light. This “bee vision” makes finding nectar much easier. In fact, some flowers such as sunflowers, primroses and pansies have nectar guides that can only be seen in ultra-violet light. Bees can sense the presence of desirable flowers through ultraviolet patterning on flowers, floral odors, and even electromagnetic fields.</p>
+    <p id="p-0050" num="0054">As to sounds, bees house large numbers of sense organs that can detect touch (mechanoreceptors), smell and taste, and small, hair like mechanoreceptors that can detect air movement to “hear” sounds. The hearing property of human ear is limited. Human ear can perceive sound within a frequency range of 20 Hz to 20 kHz. The sound frequency below 20 Hz is Infrasonic sound and above 20 kHz is Ultrasonic (US) sound. Human ear Ls not sensitive to US because the eardrum. cannot vibrate as fast as US. Ultrasound has high frequency, so the wave is very powerful. US travel along straight line even in the presence of obstacles. When the US hits an object, it bends and round and spread in all directions.</p>
+    <p id="p-0051" num="0055">
+      <figref idref="DRAWINGS">FIGS. 11</figref> A through <b>11</b> C are sketches of the long plate diverter guard with features demonstrated. Shown in these sketches are the following components and features: a long plate diverter guard <b>130</b> extending across front section of mower between the drive wheel <b>108</b> and deck wheel <b>109</b>, this guard <b>130</b> made of a durable material such as a sheet or a cast metal [cast aluminum, cast steel, cast iron, formed steel, formed stainless steel, and formed steel alloys], a polymer [nylon, urethane, polyurethane, polyvinyl chloride (PVS) and Acrylonitrile butadiene styrene (ABS)], and a composite material and the like; a vertical face <b>132</b> of long plate diverter guard <b>130</b> with front surface <b>130</b>F (toward grass) and back surface <b>132</b>B (toward vertical downturn of mower deck <b>100</b>); a horizontal face <b>134</b> of long plate diverter guard <b>130</b> with top surface <b>134</b>T and bottom surface <b>134</b>B kick-up angle feature <b>135</b> of long plate diverter guard <b>130</b> aperture <b>136</b> circular, elongated slot, square or the like; a return or kick-up <b>138</b> on the extended end of the top surface <b>134</b>T of horizontal face <b>134</b> to prevent device <b>31</b> from engaging the ground <b>80</b>; a thickness <b>139</b> of long plate diverter guard <b>130</b>; an optional series of gusset <b>140</b> between top surface <b>134</b>T of horizontal face <b>134</b> and front surface <b>132</b>F of vertical face <b>132</b>; and a means <b>150</b> to secure gusset <b>140</b> to between top face <b>134</b>T of horizontal face <b>134</b> and front face <b>132</b>F of vertical face <b>132</b> welding, braze, integrally mold, integrally cast or the like.</p>
+    <p id="p-0052" num="0056">
+      <figref idref="DRAWINGS">FIG. 12</figref> is a sketch of the long plate diverter guard mounted to a zero-turn mower with features shown and <figref idref="DRAWINGS">FIG. 13</figref> are tables showing bee diversion tests by the USDA of a mower with and without the long plate diverter guard. These are described below in the operations section.</p>
+    <p id="p-0053" num="0057">The details mentioned here are exemplary and not limiting. Other specific components and manners specific to describing a small, mower deck mounted mechanical diverters or accessory warning devices <b>30</b> for diverting and saving honeybees and other endangered insects can be added as a person having ordinary skill in the field of the art of insect diversion devices and systems and their uses well appreciates.</p>
+    <heading id="h-0014" level="1">Operation of the Preferred Embodiment</heading>
+    <p id="p-0054" num="0058">The small, mower deck mounted mechanical diverters or accessory warning devices <b>30</b> for diverting and saving honeybees and other endangered insects has been described in the above embodiment. The manner of how the device operates is described below. One notes well that the description above and the operation described here must be taken together to fully illustrate the concept of the bee diverting device <b>30</b>.</p>
+    <p id="p-0055" num="0059">The preferred embodiment of a lawn mower diverter or accessory warning device <b>30</b> for diverting and saving honeybees and other endangered insects is comprised of: an accessory warning device <b>30</b> configured as a long plate diverter guard <b>130</b> for diverting and saving a group of pollinating honeybees and other endangered insects, the long plate diverter guard being mounted to a front vertical drop of a deck of a mower, being made of durable materials, and being comprised of a. a vertical face <b>132</b> with a front surface <b>130</b>F and a back surface <b>132</b>B the vertical face having at least two aperture <b>136</b> to accept a means <b>36</b> for removably fastening the long plate diverter guard <b>130</b> to mower deck <b>100</b>; b. a horizontal face <b>134</b> with a top surface <b>134</b>T and bottom surface <b>134</b>B; c. a kick-up angle feature <b>135</b>; and d. the vertical face <b>132</b>, horizontal face <b>134</b>, and kick-up angle feature <b>135</b> being a continual thickness <b>139</b> wherein the warning device <b>30</b> alerts the pollinating bees of the oncoming mower by spreading the grass and deflecting a body of the pollinating bee so the bees can survive by flying away and averting their demise by the mower. Alternative devices for warning are sound, light, smoke, spray, and Electro Magnetic force/pulse generators placed with the mowers.</p>
+    <p id="p-0056" num="0060">
+      <figref idref="DRAWINGS">FIG. 9</figref> is a sketch of a mower diverter in operation warning the pollination bees. The mower <b>105</b> with the deck <b>100</b> has a bee diversion device <b>30</b> mounted and ready for an operational mode. Note the mechanical bee diversion device <b>31</b> or a non-mechanical means <b>50</b> for diverting bees is shown with the emitter warning component <b>67</b>A, B, C, <b>72</b>, <b>77</b>. The warning emits toward the bees <b>88</b>. The bees <b>88</b> are near the clover <b>85</b> and down near the ground <b>80</b> in the grass and vegetation <b>81</b> to be mowed. An amount of clover and desired vegetation <b>85</b> for pollenating is sought by the group of pollenating bees <b>88</b>. As the mowing the ground operation <b>90</b> with a diverting device <b>30</b> draws near, a mower deck <b>100</b> of the mower <b>105</b> with a set of mower blades <b>107</b> are rotating. This is what kills the pollenating bees <b>88</b>. As the warning is emitted, the bees <b>88</b> react and fly from the danger before being killed by the mowing operation.</p>
+    <p id="p-0057" num="0061">
+      <figref idref="DRAWINGS">FIG. 12</figref> is a sketch of the long plate diverter guard mounted to a zero-turn mower with features shown. Shown here are: the ground <b>80</b>; a group of pollenating bees <b>88</b>; a drive wheel <b>108</b> of mower <b>105</b>; a mower deck <b>100</b>; a mower <b>105</b>; a deck wheel <b>109</b> of deck <b>100</b>; and a long plate diverter guard <b>130</b> extending across front section of mower between the drive wheel <b>108</b> and deck wheel <b>109</b>, made of a durable material such as sheet or cast metal—steel, stainless steel, aluminum, or the like; or a molded polymer such as nylon, urethane, polyurethane, polyvinylchloride, ABS and the like. Components and features of long plate <b>130</b> shown above with <figref idref="DRAWINGS">FIGS. 11</figref> A through <b>11</b> C.</p>
+    <p id="p-0058" num="0062">
+      <figref idref="DRAWINGS">FIG. 13</figref> are tables showing bee diversion tests by the USDA of a mower with and without the long plate diverter guard. This is shown as the spreadsheet table “Tests trial results” <b>160</b> of experiments using the long plate diverter guard <b>130</b> to see how many bees <b>88</b> are diverted. This type of testing was observed by a USDA writer, Dr. Jay Evans who is chief scientist Honeybee research programs Beltsville Md. USDA. He recently stated: “I will end with a story for the future that has sucked me in despite being way out of my scientific wheelhouse. First, it is undeniable that bees of all sorts do better with fields of flowers than fields of turf. For bee fans, the 50+ million acres of turf in the U.S. (https://agamerica.com/turfgrass-industries/) represent a blank canvas. Turf ranks among the top three U.S. ‘crops’, with soybeans and corn. As with soy and corn, tapping into the turf environment by making it more bee friendly would be a really big deal. Many property owners seem quite satisfied with a turf lawn but others, given a nudge, would rather turn their lawns into a more functional space by supporting bees and other wildlife. So called ‘bee lawns’, with a little effort, can be beautiful and enriching for honeybees and other beneficial insects (https://www.beelab.umn.edu/learn-more/beelawn). Most lawns, with small changes in mowing and herbicide behavior, will support white clover and other flowers for much of the year. Mr. Steve Hess, of Indiana, runs his own environmentally focused pest control business. He is an entomologist who walks the fine line between removing pest insects and protecting his beloved bees. He was acutely aware that his highspeed commercial lawnmower was mulching numerous bees, and there was no way that either he or his bees could avoid collisions. Knowing the turf stats above, he also calculated the country-wide bee losses due to lawn maintenance and was appalled. Mr. Hess' conscience and creativity have led to one possible solution. He has invented a cattle guard of sorts for riding mowers, meant to gently lift bees above the mower deck just before they are sucked into the blades. He and his engineering partners continue to improve the details, but a patented model that we have both tested seems durable and likely to save some bee lives. The testing protocol consists of strapping a video camera in front of the deck and mowing fields of clover with and without the guides. Despite many acres of footage, and one mulched iPhone, it is surprisingly hard to quantify how many bees take flight versus drop to the turf and under a mower deck. Still, we have seen enough of the latter, and enough improvement with the guides, to indicate that this will be a great holiday present for landscapers and bee lovers someday. Mr. Hess remains passionate about this and is one of the hardest working people I have met. If you would like to learn more about these ‘Bee Guards’, you can contact Mr. Hess directly. So . . . go out there with optimism and realism and double your honey this year, or at least plant some flowers and mind the bees.”</p>
+    <p id="p-0059" num="0063">With this description it is to be understood that the small, mower deck mounted mechanical diverters or accessory warning devices for diverting and saving honeybees is not to be limited to only the disclosed embodiment of product. The features of the Zee Farmer bee guard device <b>30</b> are intended to cover various modifications and equivalent arrangements included within the spirit and scope of the description.</p>
+    <p id="p-0060" num="0064">While certain novel features of this invention have been shown and described and are pointed out in the annexed claims, it is not intended to be limited to the details above, since it will be understood that various omissions, modifications, substitutions and changes in the forms and details of the device illustrated and in its operation can be made by those skilled in the art without departing in any way from the spirit of the present invention. Without further analysis, the foregoing will so fully reveal the gist of the present invention that others can, by applying current knowledge, readily adapt it for various applications without omitting features that, from the standpoint of prior art, fairly constitute essential characteristics of the generic or specific aspects of this invention.</p>
+    <p id="p-0061" num="0065">Unless defined otherwise, all technical and scientific terms used herein have the same meaning as commonly understood by one of ordinary skill in the art to which these inventions belong. Although any methods and materials similar or equivalent to those described herein can also be used in the practice or testing of the present inventions, the preferred methods and materials are now described above in the foregoing paragraphs.</p>
+    <p id="p-0062" num="0066">Other embodiments of the invention are possible. Although the description above contains much specificity, these should not be construed as limiting the scope of the invention, but as merely providing illustrations of some of the presently preferred embodiments of this invention. It is also contemplated that various combinations or sub-combinations of the specific features and aspects of the embodiments may be made and still fall within the scope of the inventions. Various features and aspects of the disclosed embodiments can be combined with or substituted for one another to form varying modes of the disclosed inventions. Thus, it is intended that the scope of at least some of the present inventions herein disclosed should not be limited by the disclosed embodiments described above.</p>
+    <p id="p-0063" num="0067">The terms recited in the claims should be given their ordinary and customary meaning as determined by reference to relevant entries (e.g., definition of “plane” as a carpenter's tool would not be relevant to the use of the term “plane” when used to refer to an airplane, etc.) in dictionaries (e.g., widely used general reference dictionaries and/or relevant technical dictionaries), commonly understood meanings by those in the art, etc., with the understanding that the broadest meaning imparted by any one or combination of these sources should be given to the claim terms (e.g., two or more relevant dictionary entries should be combined to provide the broadest meaning of the combination of entries, etc.) subject only to the following exceptions: (a) if a term is used herein in a manner more expansive than its ordinary and customary meaning, the term should be given its ordinary and customary meaning plus the additional expansive meaning, or (b) if a term has been explicitly defined to have a different meaning by reciting the term followed by the phrase “as used herein shall mean” or similar language (e.g., “herein this term means,” “as defined herein,” “for the purposes of this disclosure [the term] shall mean,” etc.). References to specific examples, use of “i.e.,” use of the word “invention,” etc., are not meant to invoke exception (b) or otherwise restrict the scope of the recited claim terms. Other than situations where exception (b) applies, nothing contained herein should be considered a disclaimer or disavowal of claim scope. Accordingly, the subject matter recited in the claims is not coextensive with and should not be interpreted to be coextensive with any embodiment, feature, or combination of features shown herein. This is true even if only a single embodiment of the feature or combination of features is illustrated and described herein. Thus, the appended claims should be read to be given their broadest interpretation in view of the prior art and the ordinary meaning of the claim terms.</p>
+    <p id="p-0064" num="0068">Unless otherwise indicated, all numbers or expressions, such as those expressing dimensions, physical characteristics, etc. used in the specification (other than the claims) are understood as modified in all instances by the term “approximately.” At the very least, and not as an attempt to limit the application of the doctrine of equivalents to the claims, each numerical parameter recited in the specification or claims which is modified by the term “approximately” should at least be construed considering the number of recited significant digits and by applying ordinary rounding techniques.</p>
+  </description>
+  <claims lang="en" load-source="national-office" data-format="original">
+    <claim num="1" id="CLM-1">
+      <claim-text>
+        <b>1</b>. An accessory warning device (<b>30</b>) configured as a long plate diverter guard (<b>130</b>) for diverting and saving a group of pollinating honeybees and other endangered insects, the long plate diverter guard being mounted to a front vertical drop of a deck of a mower, being made of durable material, and being comprised of:
+<claim-text>a. a vertical face (<b>132</b>) with a front surface (<b>130</b>F) and a back surface (<b>132</b>B) the vertical face having at least two aperture (<b>136</b>) to accept a means (<b>36</b>) for removably fastening the long plate diverter guard (<b>130</b>) to mower deck (<b>100</b>);</claim-text><claim-text>b. a horizontal face (<b>134</b>) with a top surface (<b>134</b>T) and bottom surface (<b>134</b>B);</claim-text><claim-text>c. a kick-up angle feature (<b>135</b>); and</claim-text><claim-text>d. the vertical face (<b>132</b>), horizontal face (<b>134</b>), and kick-up angle feature (<b>135</b>) being a continual thickness (<b>139</b>)</claim-text></claim-text>
+      <claim-text>wherein the warning device (<b>30</b>) alerts the pollinating bees of the oncoming mower by spreading the grass and deflecting a body of the pollinating bee so the bees can survive by flying away and averting their demise by the mower.</claim-text>
+    </claim>
+    <claim num="2" id="CLM-2">
+      <claim-text>
+        <b>2</b>. The mower deck mounted accessory warning device (<b>30</b>) according to <claim-ref idref="CLM-1">claim 1</claim-ref> wherein the durable material for the long plate diverter guard (<b>130</b>) is selected from a metal, a polymer, and a composite material.</claim-text>
+    </claim>
+    <claim num="3" id="CLM-3">
+      <claim-text>
+        <b>3</b>. The mower deck mounted accessory warning device (<b>30</b>) according to <claim-ref idref="CLM-2">claim 2</claim-ref> wherein the metal is selected from the group consisting of cast aluminum, cast steel, cast iron, formed steel, formed stainless steel, and formed steel alloys.</claim-text>
+    </claim>
+    <claim num="4" id="CLM-4">
+      <claim-text>
+        <b>4</b>. The mower deck mounted accessory warning device (<b>30</b>) according to <claim-ref idref="CLM-2">claim 2</claim-ref> wherein the polymer is selected from the group consisting of nylon, urethane, polyurethane, polyvinyl chloride (PVS) and Acrylonitrile butadiene styrene (ABS).</claim-text>
+    </claim>
+    <claim num="5" id="CLM-5">
+      <claim-text>
+        <b>5</b>. The mower deck mounted accessory warning device (<b>30</b>) according to <claim-ref idref="CLM-1">claim 1</claim-ref> wherein the means (<b>36</b>) for removably connecting and securing the long plate diverter guard (<b>130</b>) to the mower deck (<b>100</b>) is selected from the group consisting of threaded fasteners, clips, pins, and zip ties.</claim-text>
+    </claim>
+    <claim num="6" id="CLM-6">
+      <claim-text>
+        <b>6</b>. A mower deck mounted accessory warning device according wherein at least one the rigid honeybee diversion device (<b>31</b>) is a non-mechanical bee diversion device (<b>31</b>).</claim-text>
+    </claim>
+    <claim num="7" id="CLM-7">
+      <claim-text>
+        <b>7</b>. The warning device according to <claim-ref idref="CLM-6">claim 6</claim-ref> wherein the non-mechanical means (<b>50</b>) for warning and diverting bees is selected from the group consisting of a light device (<b>51</b>) for diverting bees; a sound <b>56</b> diversion device; a carbon dioxide (<b>94</b>) diversion device; a smoke diversion device (<b>95</b>); a pheromone (<b>96</b>) diversion device; an Electromagnetic pulse (<b>97</b>) diverter device; a pneumatic pulse (<b>98</b>); and a chemical spray device (<b>99</b>).</claim-text>
+    </claim>
+    <claim num="8" id="CLM-8">
+      <claim-text>
+        <b>8</b>. The non-mechanical means (<b>50</b>) for warning and diverting bees in <claim-ref idref="CLM-7">claim 7</claim-ref> wherein the light devices (<b>51</b>) for diverting bees is selected from a group consisting of an ultraviolet (<b>52</b>) light devices; an infrared (<b>53</b>) light device; a laser (<b>54</b>) light device; and a strobe (<b>55</b>) light device.</claim-text>
+    </claim>
+    <claim num="9" id="CLM-9">
+      <claim-text>
+        <b>9</b>. The non-mechanical means (<b>50</b>) for warning and diverting bees in <claim-ref idref="CLM-7">claim 7</claim-ref> wherein the sound (<b>56</b>) diversion device is selected from a group consisting of a low frequency (<b>57</b>) sound diversion device; a high frequency (<b>58</b>) sound diversion device; a staccato sound (<b>59</b>) diversion device; and a thumping impact noise device.</claim-text>
+    </claim>
+  </claims>
+  <copyright>User is aware and acknowledges that Lighthouse IP shall retain all right, title and interest in and to this record and its structure under relevant and applicable copyright laws. User receives no ownership or any other rights to this record and its structure. User is aware and confirms accepting the terms and conditions of use as defined in the relevant user agreement either with Lighthouse IP or with its partner(s). This product may contain data sourced from EPO databases, © European Patent Organisation.</copyright>
+</patent-document>

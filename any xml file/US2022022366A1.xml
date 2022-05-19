@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="utf-8"?>
+<patent-document country="US" doc-number="2022022366" kind="A1" date-publ="20220127" invention-id="161806375" lhip-id="LH362954212" date-export="20220331" xsd-version="1.5.2">
+  <bibliographic-data>
+    <publication-references>
+      <publication-reference load-source="docdb" data-format="docdb" doc-id="565136437" family-id="69845792" is-representative="NO">
+        <document-id>
+          <country>US</country>
+          <doc-number>2022022366</doc-number>
+          <kind>A1</kind>
+          <date>20220127</date>
+          <lang>en</lang>
+        </document-id>
+      </publication-reference>
+      <publication-reference load-source="docdb" data-format="original">
+        <document-id>
+          <doc-number>20220022366</doc-number>
+        </document-id>
+      </publication-reference>
+      <publication-reference load-source="docdb" data-format="epodoc">
+        <document-id>
+          <doc-number>US2022022366</doc-number>
+          <lang>en</lang>
+        </document-id>
+      </publication-reference>
+      <publication-reference load-source="national-office" data-format="original">
+        <document-id>
+          <country>US</country>
+          <doc-number>20220022366</doc-number>
+          <kind>A1</kind>
+          <date>20220127</date>
+          <lang>en</lang>
+        </document-id>
+      </publication-reference>
+    </publication-references>
+    <application-references>
+      <application-reference load-source="national-office" data-format="original">
+        <document-id>
+          <country>US</country>
+          <doc-number>17493423</doc-number>
+          <date>20211004</date>
+          <lang>en</lang>
+        </document-id>
+      </application-reference>
+      <application-reference is-representative="NO" doc-id="565136436" load-source="docdb" data-format="docdb">
+        <document-id>
+          <country>US</country>
+          <doc-number>202117493423</doc-number>
+          <kind>A</kind>
+          <date>20211004</date>
+        </document-id>
+      </application-reference>
+      <application-reference load-source="docdb" data-format="epodoc">
+        <document-id>
+          <doc-number>US202117493423</doc-number>
+        </document-id>
+      </application-reference>
+      <application-reference load-source="docdb" data-format="original">
+        <document-id>
+          <doc-number>17493423</doc-number>
+        </document-id>
+      </application-reference>
+    </application-references>
+    <priority-claims>
+      <priority-claim sequence="1" load-source="docdb" data-format="docdb" doc-id="565136436">
+        <document-id>
+          <country>US</country>
+          <doc-number>202117493423</doc-number>
+          <kind>A</kind>
+          <date>20211004</date>
+        </document-id>
+        <priority-active-indicator>N</priority-active-indicator>
+      </priority-claim>
+      <priority-claim sequence="1" load-source="docdb" data-format="epodoc">
+        <document-id>
+          <doc-number>US202117493423</doc-number>
+        </document-id>
+      </priority-claim>
+      <priority-claim sequence="2" load-source="docdb" data-format="docdb" doc-id="537576354">
+        <document-id>
+          <country>US</country>
+          <doc-number>201916296951</doc-number>
+          <kind>A</kind>
+          <date>20190308</date>
+        </document-id>
+        <priority-linkage-type>3</priority-linkage-type>
+        <priority-active-indicator>Y</priority-active-indicator>
+      </priority-claim>
+      <priority-claim sequence="2" load-source="docdb" data-format="epodoc">
+        <document-id>
+          <doc-number>US201916296951</doc-number>
+        </document-id>
+      </priority-claim>
+      <priority-claim sequence="1" load-source="docdb" data-format="original">
+        <document-id>
+          <doc-number>16296951</doc-number>
+        </document-id>
+      </priority-claim>
+    </priority-claims>
+    <classifications-ipcr>
+      <classification-ipcr sequence="1" load-source="national-office">
+        <text>A01C   7/20        20060101AFI20220127BHUS        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2" load-source="national-office">
+        <text>A01C   7/08        20060101ALI20220127BHUS        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="1" load-source="docdb">
+        <text>A01C   7/20        20060101AFI20220127BHUS        </text>
+      </classification-ipcr>
+      <classification-ipcr sequence="2" load-source="docdb">
+        <text>A01C   7/08        20060101ALI20220127BHUS        </text>
+      </classification-ipcr>
+    </classifications-ipcr>
+    <classifications-cpc>
+      <classification-cpc sequence="1" load-source="national-office">
+        <classification-scheme office="US" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A01C   7/205       </classification-symbol>
+        <classification-level>C</classification-level>
+        <symbol-position>F</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20220127</date>
+        </action-date>
+      </classification-cpc>
+      <classification-cpc sequence="2" load-source="national-office">
+        <classification-scheme office="US" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A01C   7/208       </classification-symbol>
+        <classification-level>C</classification-level>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20220127</date>
+        </action-date>
+      </classification-cpc>
+      <classification-cpc sequence="3" load-source="national-office">
+        <classification-scheme office="US" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A01C   7/203       </classification-symbol>
+        <classification-level>C</classification-level>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20220127</date>
+        </action-date>
+      </classification-cpc>
+      <classification-cpc sequence="4" load-source="national-office">
+        <classification-scheme office="US" scheme="CPC">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A01C   7/082       </classification-symbol>
+        <classification-level>C</classification-level>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <action-date>
+          <date>20220127</date>
+        </action-date>
+      </classification-cpc>
+      <classification-cpc sequence="1" load-source="docdb">
+        <classification-scheme office="EP" scheme="CPCI">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A01B  63/008       </classification-symbol>
+        <symbol-position>F</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <generating-office>BR</generating-office>
+        <action-date>
+          <date>20130101</date>
+        </action-date>
+      </classification-cpc>
+      <classification-cpc sequence="2" load-source="docdb">
+        <classification-scheme office="EP" scheme="CPCI">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A01C   7/04        </classification-symbol>
+        <symbol-position>L</symbol-position>
+        <classification-value>A</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <generating-office>BR</generating-office>
+        <action-date>
+          <date>20130101</date>
+        </action-date>
+      </classification-cpc>
+      <classification-cpc sequence="3" load-source="docdb">
+        <classification-scheme office="EP" scheme="CPCI">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A01C   7/205       </classification-symbol>
+        <symbol-position>F</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <generating-office>EP</generating-office>
+        <action-date>
+          <date>20200611</date>
+        </action-date>
+      </classification-cpc>
+      <classification-cpc sequence="4" load-source="docdb">
+        <classification-scheme office="EP" scheme="CPCI">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A01C   5/064       </classification-symbol>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <generating-office>EP</generating-office>
+        <action-date>
+          <date>20200611</date>
+        </action-date>
+      </classification-cpc>
+      <classification-cpc sequence="5" load-source="docdb">
+        <classification-scheme office="EP" scheme="CPCI">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A01C   7/082       </classification-symbol>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <generating-office>US</generating-office>
+        <action-date>
+          <date>20200911</date>
+        </action-date>
+      </classification-cpc>
+      <classification-cpc sequence="6" load-source="docdb">
+        <classification-scheme office="EP" scheme="CPCI">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A01C   7/203       </classification-symbol>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <generating-office>US</generating-office>
+        <action-date>
+          <date>20200911</date>
+        </action-date>
+      </classification-cpc>
+      <classification-cpc sequence="7" load-source="docdb">
+        <classification-scheme office="EP" scheme="CPCI">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A01C   7/205       </classification-symbol>
+        <symbol-position>F</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <generating-office>US</generating-office>
+        <action-date>
+          <date>20200911</date>
+        </action-date>
+      </classification-cpc>
+      <classification-cpc sequence="8" load-source="docdb">
+        <classification-scheme office="EP" scheme="CPCI">
+          <date>20130101</date>
+        </classification-scheme>
+        <classification-symbol>A01C   7/208       </classification-symbol>
+        <symbol-position>L</symbol-position>
+        <classification-value>I</classification-value>
+        <classification-status>B</classification-status>
+        <classification-data-source>H</classification-data-source>
+        <generating-office>US</generating-office>
+        <action-date>
+          <date>20200911</date>
+        </action-date>
+      </classification-cpc>
+    </classifications-cpc>
+    <parties>
+      <applicants>
+        <applicant sequence="1" load-source="national-office" data-format="original" designation="us-only" type="company-corp">
+          <addressbook>
+            <name>Deere &amp; Company</name>
+            <address>
+              <city>Moline</city>
+              <state>IL</state>
+              <country>US</country>
+            </address>
+          </addressbook>
+          <residence>
+            <country>US</country>
+          </residence>
+          <us-rights />
+        </applicant>
+        <applicant sequence="1" load-source="docdb" data-format="docdb" type="company-corp">
+          <addressbook>
+            <name>DEERE &amp; CO</name>
+          </addressbook>
+          <residence>
+            <country>US</country>
+          </residence>
+        </applicant>
+        <applicant sequence="1" load-source="docdb" data-format="docdba" type="company-corp">
+          <addressbook>
+            <name>Deere &amp; Company</name>
+          </addressbook>
+        </applicant>
+      </applicants>
+      <inventors>
+        <inventor sequence="1" load-source="national-office" data-format="original" designation="us-only">
+          <addressbook>
+            <last-name>Salowitz</last-name>
+            <first-name>Jacob D.</first-name>
+            <address>
+              <city>Bettendorf</city>
+              <state>IA</state>
+              <country>US</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor sequence="2" load-source="national-office" data-format="original" designation="us-only">
+          <addressbook>
+            <last-name>Frasier</last-name>
+            <first-name>Michael E.</first-name>
+            <address>
+              <city>Iowa City</city>
+              <state>IA</state>
+              <country>US</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor sequence="3" load-source="national-office" data-format="original" designation="us-only">
+          <addressbook>
+            <last-name>Bajjuri</last-name>
+            <first-name>Pranay</first-name>
+            <address>
+              <city>Bettendorf</city>
+              <state>IA</state>
+              <country>US</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor sequence="4" load-source="national-office" data-format="original" designation="us-only">
+          <addressbook>
+            <last-name>Bartelson</last-name>
+            <first-name>Matt</first-name>
+            <address>
+              <city>Bettendorf</city>
+              <state>IA</state>
+              <country>US</country>
+            </address>
+          </addressbook>
+        </inventor>
+        <inventor sequence="1" load-source="docdb" data-format="docdb">
+          <addressbook>
+            <name>SALOWITZ JACOB D</name>
+          </addressbook>
+          <residence>
+            <country>US</country>
+          </residence>
+        </inventor>
+        <inventor sequence="2" load-source="docdb" data-format="docdb">
+          <addressbook>
+            <name>FRASIER MICHAEL E</name>
+          </addressbook>
+          <residence>
+            <country>US</country>
+          </residence>
+        </inventor>
+        <inventor sequence="3" load-source="docdb" data-format="docdb">
+          <addressbook>
+            <name>BAJJURI PRANAY</name>
+          </addressbook>
+          <residence>
+            <country>US</country>
+          </residence>
+        </inventor>
+        <inventor sequence="4" load-source="docdb" data-format="docdb">
+          <addressbook>
+            <name>BARTELSON MATT</name>
+          </addressbook>
+          <residence>
+            <country>US</country>
+          </residence>
+        </inventor>
+        <inventor sequence="1" load-source="docdb" data-format="docdba">
+          <addressbook>
+            <name>Salowitz, Jacob D.</name>
+          </addressbook>
+        </inventor>
+        <inventor sequence="2" load-source="docdb" data-format="docdba">
+          <addressbook>
+            <name>Frasier, Michael E.</name>
+          </addressbook>
+        </inventor>
+        <inventor sequence="3" load-source="docdb" data-format="docdba">
+          <addressbook>
+            <name>Bajjuri, Pranay</name>
+          </addressbook>
+        </inventor>
+        <inventor sequence="4" load-source="docdb" data-format="docdba">
+          <addressbook>
+            <name>Bartelson, Matt</name>
+          </addressbook>
+        </inventor>
+      </inventors>
+    </parties>
+    <invention-title lang="en" load-source="national-office" data-format="original">PLANTER ROW UNIT WITH LOAD SENSING DEPTH STOP ASSEMBLY</invention-title>
+    <invention-title lang="en" load-source="docdb" data-format="docdba">PLANTER ROW UNIT WITH LOAD SENSING DEPTH STOP ASSEMBLY</invention-title>
+    <related-documents>
+      <relation type="division" load-source="national-office" data-format="original">
+        <child-doc>
+          <document-id>
+            <country>US</country>
+            <doc-number>17493423</doc-number>
+          </document-id>
+        </child-doc>
+        <parent-doc>
+          <document-id>
+            <country>US</country>
+            <doc-number>16296951</doc-number>
+            <date>20190308</date>
+          </document-id>
+        </parent-doc>
+        <parent-grant-doc>
+          <document-id>
+            <country>US</country>
+            <doc-number>11134606</doc-number>
+          </document-id>
+        </parent-grant-doc>
+      </relation>
+    </related-documents>
+    <dates-of-public-availability>
+      <unexamined-printed-without-grant>
+        <document-id>
+          <date>20220127</date>
+        </document-id>
+      </unexamined-printed-without-grant>
+    </dates-of-public-availability>
+  </bibliographic-data>
+  <abstract lang="en" load-source="national-office" data-format="original">
+    <p id="p-0001" num="0000">A row unit for a seeding machine includes a frame supporting a gauge wheel and a seed meter. A depth stop assembly includes a stop setting an upward travel limit of the gauge wheel with respect to the frame, and a handle that is lockable and releasable to move the stop to select among seeding depths. A downforce actuator is operable to generate downforce to be applied through a gauge wheel arm and the gauge wheel to the soil. A downforce sensor is incorporated into the depth stop assembly and movable therewith. The depth stop assembly includes a multi-piece body having a first piece receiving the handle, and a second piece defining a pivot. The first piece of the multipiece body includes a handle-receiving receptacle portion, a fastening portion for fastening to the second body piece adjacent the pivot, and a portion therebetween forming a housing of the downforce sensor.</p>
+    <img file="US2022022366A1_A0001.tif" />
+  </abstract>
+  <abstract lang="en" load-source="docdb" data-format="docdba" abstract-source="national-office">
+    <p>A row unit for a seeding machine includes a frame supporting a gauge wheel and a seed meter. A depth stop assembly includes a stop setting an upward travel limit of the gauge wheel with respect to the frame, and a handle that is lockable and releasable to move the stop to select among seeding depths. A downforce actuator is operable to generate downforce to be applied through a gauge wheel arm and the gauge wheel to the soil. A downforce sensor is incorporated into the depth stop assembly and movable therewith. The depth stop assembly includes a multi-piece body having a first piece receiving the handle, and a second piece defining a pivot. The first piece of the multipiece body includes a handle-receiving receptacle portion, a fastening portion for fastening to the second body piece adjacent the pivot, and a portion therebetween forming a housing of the downforce sensor.</p>
+  </abstract>
+  <description lang="en" load-source="national-office" data-format="original">
+    <?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="lead"?>
+    <heading id="h-0001" level="1">CROSS-REFERENCE TO RELATED APPLICATIONS</heading>
+    <p id="p-0002" num="0001">The present divisional application claims benefit of U.S. Non-provisional patent application Ser. No. 16/296,951, filed Mar. 8, 2019, the entire contents of which are incorporated herein by reference.</p>
+    <?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="tail"?>
+    <?summary-of-invention description="Summary of Invention" end="lead"?>
+    <heading id="h-0002" level="1">BACKGROUND</heading>
+    <p id="p-0003" num="0002">The present disclosure relates to systems and methods for planting seeds, in particular with a row unit for a seeding machine.</p>
+    <p id="p-0004" num="0003">Various factors affect crop yields. One factor, for example, is seed depth in a furrow. Another factor is soil compaction along the furrow. A productive crop yield is typically one that grows and emerges uniformly from the soil. Understanding planting depth and soil compaction provides valuable information that may be used to generate a productive crop yield.</p>
+    <heading id="h-0003" level="1">SUMMARY</heading>
+    <p id="p-0005" num="0004">In one aspect, the disclosure provides a row unit for a seeding machine operable to plant seeds into soil. The row unit includes a frame, a gauge wheel operable to engage the soil and support the frame via a gauge wheel arm connected between the gauge wheel and the frame, and a seed dispenser supported by the frame and operable to dispense seeds into the soil. The gauge wheel is supported by the frame via a gauge wheel arm. A depth stop assembly includes a stop setting an upward travel limit of the gauge wheel with respect to the frame, and a handle that is lockable and releasable to move the stop to select among a plurality of seeding depths. A downforce actuator is operable to generate a variable amount of downforce to be applied through the gauge wheel arm and the gauge wheel to the soil. A downforce sensor is incorporated into the depth stop assembly and movable therewith. The depth stop assembly includes a multi-piece body having a first piece receiving the handle, and a second piece defining a pivot joining the depth stop assembly to the frame. The first piece of the multi-piece body includes a handle-receiving receptacle portion, a fastening portion for fastening to the second piece of the multi-piece body adjacent the pivot, and a portion between the handle-receiving receptacle portion and the fastening portion forming a housing of the downforce sensor.</p>
+    <p id="p-0006" num="0005">In another aspect, the disclosure provides a row unit for a seeding machine operable to plant seeds into soil. The row unit includes a frame, a gauge wheel operable to engage the soil and support the frame via a gauge wheel arm connected between the gauge wheel and the frame, and a seed dispenser supported by the frame and operable to dispense seeds into the soil. The gauge wheel is supported by the frame via a gauge wheel arm. A depth stop assembly includes a stop setting an upward travel limit of the gauge wheel with respect to the frame, and a handle that is lockable and releasable to move the stop to select among a plurality of seeding depths. A pivot joins the depth stop assembly to the frame. A downforce actuator is operable to generate a variable amount of downforce to be applied through the gauge wheel arm and the gauge wheel to the soil. A downforce sensor is provided by a load cell including at least one strain gauge. The load cell is offset from the stop and positioned on an opposite side of the pivot from the stop.</p>
+    <p id="p-0007" num="0006">In yet another aspect, the disclosure provides a seeding row unit depth stop assembly including a stop, a handle, a and a multi-piece body. The stop presents a surface positioned to set an upward travel limit of a gauge wheel of the row unit. The handle is movable between locked and released positions, the depth stop assembly having a pivot for moving among a plurality of seeding depths when the handle is in the released position. The multi-piece body has a first piece receiving the handle, and a second piece separate from the first piece, the second piece defining the pivot. A downforce sensor is incorporated into the depth stop assembly and movable therewith. The first piece forms a housing of the downforce sensor. The downforce sensor is offset from the stop and positioned on an opposite side of the pivot from the stop.</p>
+    <p id="p-0008" num="0007">Other aspects of the disclosure will become apparent by consideration of the detailed description and accompanying drawings.</p>
+    <?summary-of-invention description="Summary of Invention" end="tail"?>
+    <?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+    <description-of-drawings>
+      <heading id="h-0004" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+      <p id="p-0009" num="0008">
+        <figref idref="DRAWINGS">FIG. 1</figref> is a perspective view of a seeding machine.</p>
+      <p id="p-0010" num="0009">
+        <figref idref="DRAWINGS">FIG. 2</figref> is a partially schematic side view of a row unit of the seeding machine of <figref idref="DRAWINGS">FIG. 1</figref>, including gauge wheel arms and gauge wheels.</p>
+      <p id="p-0011" num="0010">
+        <figref idref="DRAWINGS">FIG. 3</figref> is a perspective view of a pair of gauge wheel arms and a limiting stop of the row unit of <figref idref="DRAWINGS">FIG. 2</figref>.</p>
+      <p id="p-0012" num="0011">
+        <figref idref="DRAWINGS">FIG. 4</figref> is a side view of a portion of the row unit of <figref idref="DRAWINGS">FIG. 2</figref>, including a depth stop assembly with an integrated downforce sensor.</p>
+      <p id="p-0013" num="0012">
+        <figref idref="DRAWINGS">FIG. 5</figref> is a first perspective view of the depth stop assembly of <figref idref="DRAWINGS">FIG. 4</figref>.</p>
+      <p id="p-0014" num="0013">
+        <figref idref="DRAWINGS">FIG. 6</figref> is a second perspective view of the depth stop assembly of <figref idref="DRAWINGS">FIGS. 4 and 5</figref>.</p>
+      <p id="p-0015" num="0014">
+        <figref idref="DRAWINGS">FIG. 7</figref> is a perspective view of the depth stop assembly with potting compound removed from the downforce sensor housing.</p>
+      <p id="p-0016" num="0015">
+        <figref idref="DRAWINGS">FIG. 8</figref> is a flowchart illustrating a process for using a downforce sensor in closed-loop downforce control.</p>
+    </description-of-drawings>
+    <?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+    <?detailed-description description="Detailed Description" end="lead"?>
+    <heading id="h-0005" level="1">DETAILED DESCRIPTION</heading>
+    <p id="p-0017" num="0016">Before embodiments of the disclosure are explained in detail, it is to be understood that the disclosure is not limited in its application to the details of construction and the arrangement of components set forth in the following description or illustrated in the accompanying drawings. The disclosure is capable of supporting other embodiments and of being practiced or of being carried out in various ways.</p>
+    <p id="p-0018" num="0017">
+      <figref idref="DRAWINGS">FIG. 1</figref> illustrates a seeding machine <b>10</b> (e.g., a row crop planter). The seeding machine <b>10</b> includes a main frame <b>14</b>. A plurality of individual row units <b>18</b> are coupled (e.g., mounted) on a rear portion of the main frame <b>14</b>, such that the row units <b>18</b> are pulled over or across a layer of soil <b>20</b>. Alternatively, the row units <b>18</b> may be positioned forward of the frame <b>14</b> and pushed over or across the soil layer <b>20</b>, or the machine may have a combination of push and pull row units <b>18</b>. Seed sources, such as storage tanks <b>22</b><i>a</i>-<b>22</b><i>c, </i>are coupled to the main frame <b>14</b> and hold seed that is delivered, e.g., pneumatically or in any other suitable manner, to a mini-hopper (not shown) associated with each row unit <b>18</b>. The storage tanks <b>22</b><i>a</i>-<b>22</b><i>c </i>are coupled to the mini-hoppers by way of conduits <b>26</b>, such as hoses, and a pressurized delivery apparatus (not shown). Each storage tank <b>22</b><i>a</i>-<b>22</b><i>c </i>contains the same or different varieties of seed to be planted in the soil <b>20</b>. Each row unit <b>18</b> is connected to a conduit <b>26</b> such that each row unit <b>18</b> is coupled to a storage tank <b>22</b><i>a</i>-<b>22</b><i>c </i>to receive seed. As illustrated by way of example only in <figref idref="DRAWINGS">FIG. 1</figref>, each row unit <b>18</b> further includes its own sub-frame <b>30</b>, to which various components (e.g., a furrow opener, a furrow closer, etc.) are mounted.</p>
+    <p id="p-0019" num="0018">
+      <figref idref="DRAWINGS">FIG. 2</figref> illustrates an example of a row unit <b>118</b> that may be used in place of any one or more of the row units <b>18</b> in <figref idref="DRAWINGS">FIG. 1</figref>. Similar to the row unit <b>18</b>, the row unit <b>118</b> is also coupled to the main frame <b>14</b>. In some constructions, a plurality of row units <b>118</b> are coupled to the main frame <b>14</b>, similar to the row units <b>18</b> in <figref idref="DRAWINGS">FIG. 1</figref>. As illustrated in <figref idref="DRAWINGS">FIG. 2</figref>, each row unit <b>118</b> includes hoppers <b>122</b><i>a, </i><b>122</b><i>b, </i>which hold chemical and seed, respectively (as opposed to the row unit <b>18</b> receiving seed from bulk storage as in the construction illustrated in <figref idref="DRAWINGS">FIG. 1</figref>). The hoppers <b>122</b><i>a</i>, <b>122</b><i>b </i>are coupled to a row unit sub-frame <b>130</b>. Each row unit <b>118</b> also includes a gauge wheel or wheels <b>132</b> coupled to the row unit sub-frame <b>130</b>. The gauge wheel <b>132</b> contacts and rolls along the soil <b>20</b>, and a furrow opener <b>134</b> (e.g., an opening wheel or blade or other structure having a stationary or rotating surface that contacts and moves soil away to form a furrow) is coupled to the row unit sub-frame <b>130</b> for forming a furrow <b>136</b> (illustrated schematically) in the soil <b>20</b>. A seed metering device <b>138</b> coupled to the row unit sub-frame <b>130</b> receives seeds from the hopper <b>122</b><i>b </i>and meters and dispenses the seeds into the furrow <b>136</b>. A furrow closer <b>140</b> (e.g., a closing and packing wheel or wheels or other structure having a stationary or rotating surface that contacts and presses soil <b>20</b>) coupled to the row unit sub-frame <b>130</b> pushes soil around the seeds to close the furrow <b>136</b> (see <figref idref="DRAWINGS">FIG. 1</figref>). Each row unit <b>118</b> may also include a seed firmer <b>144</b> (e.g., an angled arm as illustrated in <figref idref="DRAWINGS">FIG. 2</figref>, a press wheel coupled to a press wheel arm, or other structure that firms a seed) coupled to the row unit sub-frame <b>130</b> that firms each seed and pushes it into the open furrow <b>136</b> to ensure good seed to soil contact before the furrow <b>136</b> is closed. <figref idref="DRAWINGS">FIG. 2</figref> also illustrates an optional coulter wheel <b>22</b> and row cleaner <b>23</b> forward of the furrow opener <b>134</b>.</p>
+    <p id="p-0020" num="0019">The row unit <b>118</b> also includes a downforce adjustment mechanism <b>174</b> coupled to the main frame <b>14</b> and to the row unit sub-frame <b>130</b>. The downforce adjustment mechanism <b>174</b> includes springs, pneumatics, hydraulics, linkages, and/or other structures forming an actuator such that when the downforce adjustment mechanism is activated, the downforce adjustment mechanism <b>174</b> pushes the row unit sub-frame <b>130</b> of the row unit <b>118</b> and consequently the furrow opener <b>134</b> into the soil <b>20</b> to dig the furrow <b>136</b>. The gauge wheels <b>132</b>, however, continue to ride along the top surface <b>158</b> of the soil <b>20</b>. Active downforce control can be provided by the combination of the downforce adjustment mechanism <b>174</b>, particularly the actuator thereof, along with a downforce sensor <b>148</b> and a controller <b>178</b> as discussed in further detail herein. A depth <b>154</b> of the furrow <b>136</b> is measured from a top surface <b>158</b> of the soil <b>20</b> to the bottom <b>162</b> of the furrow <b>136</b>, along a direction that is perpendicular to the top surface <b>158</b> (assuming a flat, non-inclined top surface <b>158</b>), and therefore depends on a position of the gauge wheels <b>132</b> relative to the furrow opener <b>134</b>. In some constructions, the depth <b>154</b> is equivalent to a distance between a bottom of the gauge wheel or wheels <b>132</b> and a bottom of the furrow opener <b>134</b>. The downforce adjustment mechanism <b>174</b> is mounted on a coupling assembly <b>150</b> that couples the row unit <b>118</b> to the main frame <b>14</b>. In the example shown in <figref idref="DRAWINGS">FIG. 2</figref>, a rod of the actuator forming the downforce adjustment mechanism <b>174</b> is coupled to a link of a parallel linkage <b>152</b> and is used to exert downward force on the row unit <b>118</b> through the parallel linkage <b>152</b>.</p>
+    <p id="p-0021" num="0020">With continued reference to <figref idref="DRAWINGS">FIGS. 2 and 3</figref>, the gauge wheel(s) <b>132</b> are coupled to the sub-frame <b>130</b> with respective arms <b>166</b> and respective pivots <b>170</b>, which can be concentric as shown. Stops <b>186</b> are also provided on the row unit <b>118</b> for each gauge wheel arm <b>166</b> to limit the upward rotation of each gauge wheel arm <b>166</b>. The stops <b>186</b> are adjustable to a desired position to set the depth <b>154</b> of the furrow <b>136</b>. The position of the stops <b>186</b> can be manually adjusted or a remote adjustment assembly may be included such as shown in U.S. Pat. No. 4,413,685, the entire contents of which are incorporated herein by reference. The stops <b>186</b> form part of a depth stop assembly <b>190</b>, which is shown in further detail in <figref idref="DRAWINGS">FIG. 4</figref>. In particular, the stops <b>186</b> can be provided as a rocker member, which has two discrete stop surfaces for the two gauge wheel arms <b>166</b>, pivotably supported on the depth stop assembly <b>190</b> at a first or inner end thereof. At a second end opposite the stops <b>186</b>, the depth stop assembly <b>190</b> includes a handle <b>194</b> that is lockable and releasable, e.g., in various notches <b>196</b> on the sub-frame <b>130</b>, to select among a plurality of seeding depths, each setting positioning the stops <b>186</b> at a different height with respect to the sub-frame <b>130</b>. The depth stop assembly <b>190</b> is coupled to the sub-frame <b>130</b> with a pivot <b>200</b> that allows movement among the plurality of settings when the handle <b>194</b> is released. The pivot <b>200</b> can be parallel to and offset from the concentric pivots <b>170</b> of the gauge wheel arms <b>166</b>. The handle <b>194</b> can be biased to the locked position by a biasing member <b>204</b>, such as a coil spring.</p>
+    <p id="p-0022" num="0021">The depth stop assembly <b>190</b>, which is shown in further detail in <figref idref="DRAWINGS">FIGS. 5-7</figref>, includes a multi-piece body <b>208</b> having a first piece <b>208</b><sub>1 </sub>receiving the handle <b>194</b>, and a second piece <b>208</b><sub>2 </sub>defining the pivot <b>200</b> joining the depth stop assembly <b>190</b> to the sub-frame <b>130</b>. The first and second pieces <b>208</b><sub>1</sub>, <b>208</b><sub>2 </sub>of the multi-piece body <b>208</b> are separate from each other and connected by respective fastening portions <b>210</b><sub>1</sub>, <b>210</b><sub>2 </sub>thereof. As illustrated, the first and second body pieces <b>208</b><sub>1</sub>, <b>208</b><sub>2 </sub>are fastened with a pair of threaded fasteners <b>212</b>, although other fastener arrangements can be used. Within the first body piece <b>208</b><sub>1</sub>, there is defined a handle-receiving receptacle portion <b>216</b>, which is opposite the fastening portion <b>210</b><sub>1 </sub>as illustrated. In the illustrated construction, the handle-receiving receptacle portion <b>216</b> is formed as a ring or loop defining an aperture <b>218</b> that receives a portion of the handle <b>194</b>. The handle <b>194</b> is thereby slidably received to define a handle axis A<sub>1 </sub>along which the handle <b>194</b> is movable between its locked and released positions. Between the fastening portion <b>210</b><sub>1 </sub>and the handle-receiving receptacle portion <b>216</b> an additional portion of the first body piece <b>208</b><sub>1 </sub>forms a housing <b>220</b> of the downforce sensor <b>148</b>.</p>
+    <p id="p-0023" num="0022">The row unit downforce sensor <b>148</b> is one of one or more such sensors on the row unit <b>118</b> operable to sense the downforce on the row unit <b>118</b>. The illustrated downforce sensor <b>148</b> is incorporated or integrated into the depth stop assembly <b>190</b> and movable therewith. The downforce sensor <b>148</b> is offset from the stops <b>186</b> and positioned on an opposite side of the pivot <b>200</b> from the stops <b>186</b>. The downforce sensor <b>148</b> extends parallel to the handle axis A<sub>1 </sub>at a position alongside the handle <b>194</b>. The downforce sensor <b>148</b> can be provided as a load cell including at least one strain gauge <b>224</b>. As illustrated, the downforce sensor <b>148</b> includes two strain gauges <b>224</b>. Each of the strain gauges <b>224</b> is oriented to measure perpendicular to the handle axis A<sub>1</sub>, along measurement direction D (both of which are perpendicular to an axis A<sub>2 </sub>of the depth stop assembly pivot <b>200</b>). The strain gauges <b>224</b> can be used in combination to provide a combined output signal from the downforce sensor <b>148</b> (e.g., one strain gauge as a primary and the other as a confirmation, or alternatively measurements from the two strain gauges can be averaged). The downforce sensor housing <b>220</b> provided by the first body piece <b>208</b><sub>1 </sub>includes a receptacle <b>226</b> or recess therein (e.g., along opposite side edges thereof) for each of the strain gauges <b>224</b> so that the strain gauges <b>224</b> are set into the housing <b>220</b> and not exposed or protruding therefrom. The downforce sensor <b>148</b> can also include a processor (e.g., a microprocessor) <b>228</b> coupled to the strain gauges <b>224</b> through wired or wireless connections so that signals representative of strain, and thus force or load, can be generated by the downforce sensor <b>148</b>. For example, electrical resistance changes can be monitored by the processor <b>228</b> onboard the downforce sensor <b>148</b>, and the electrical resistance changes can be calibrated to mechanical properties of the material forming the first body piece <b>208</b><sub>1</sub>. The processor <b>228</b> can be provided on a circuit board <b>232</b> that is at least partially received in a receptacle <b>236</b> or recess in the housing <b>220</b>. Any or all of the receptacles <b>226</b>, <b>236</b> receiving the strain gauges <b>224</b> and the circuit board <b>232</b> can be at least partially filled with potting compound <b>240</b> that encases (e.g., molds around) the strain gauges <b>224</b> and/or the circuit board <b>232</b>, including the processor <b>228</b>. The downforce sensor <b>148</b> is shown without the potting compound <b>240</b> in <figref idref="DRAWINGS">FIG. 7</figref>.</p>
+    <p id="p-0024" num="0023">As shown in <figref idref="DRAWINGS">FIG. 4</figref>, an electrical connector <b>244</b> establishes communication between the downforce sensor <b>148</b> and the controller <b>178</b>. For example, the electrical connector <b>244</b> can be a multi-pin plug-type connector and may form one half of a mating male-female junction. The electrical connector <b>244</b> is supported by the second piece <b>208</b><sub>2 </sub>of the multi-piece body <b>208</b> that defines the pivot <b>200</b> and not by the first piece <b>208</b><sub>1 </sub>that receives the handle <b>194</b>. For example, the electrical connector <b>244</b> may snap into or onto the second piece <b>208</b><sub>2</sub>, or it may be secured with a fastener, including a threaded fastener or a strap, a clip, etc.</p>
+    <p id="p-0025" num="0024">Referring again to <figref idref="DRAWINGS">FIG. 2</figref>, signals from the downforce sensor <b>148</b> are sent to the controller <b>178</b>, which tracks and/or actively manages the row unit downforce via manipulation of the downforce adjustment mechanism <b>174</b>. The controller <b>178</b> (which may include a memory and a processor for receiving and sending signals and performing calculations) uses the received signals to activate and/or adjust (i.e., increase or decrease) an output of the downforce adjustment mechanism <b>174</b> and to thus control an overall downforce applied to the row unit <b>118</b>. As discussed earlier, the downforce sensor <b>148</b> can include an on-board processor <b>228</b>, and the downforce signals can be provided to the controller <b>178</b> from the on-board processor <b>228</b>. For example, the on-board processor <b>228</b> can perform preliminary signal conditioning of the actual measurement parameter signals (e.g., variable electrical resistance) from the strain gauges <b>224</b>. This is not, however, required in all constructions, and raw measurement signals can be output from the strain gauge(s) <b>224</b> to the controller <b>178</b> located outside of the downforce sensor <b>148</b>. The controller <b>178</b> can be dedicated to the singular row unit <b>118</b> or may be a centralized controller of the seeding machine <b>10</b> that receives downforce signals and manages the applied downforce of a group of row units <b>118</b>. For example, the controller <b>178</b> can independently manage up to all of the row units <b>118</b> (e.g., on a plurality of separate channels, calculating and outputting separate downforce control signals) based on the independent signals from the independent row unit downforce sensors <b>148</b> thereof.</p>
+    <p id="p-0026" num="0025">
+      <figref idref="DRAWINGS">FIG. 8</figref> illustrates one exemplary method of controlling downforce. In a first step <b>274</b>, the downforce sensor <b>148</b> initially generates signals. In a second step <b>278</b>, the controller <b>178</b> receives the signals from the downforce sensor <b>148</b> (e.g., wirelessly or with a wired connection). In a third step <b>282</b>, the controller <b>178</b> uses an algorithm to determine a downforce adjustment for the row unit <b>118</b>. In some constructions, the algorithm is based solely on the difference between actual and target downforce values and may perform calculations that take into account instantaneous downforce, downforce consistency, a moving average, a trend, etc. In some constructions, the algorithm additionally considers one or more additional parameters such as furrow depth, GPS location, soil moisture, soil type, speed of the seeding machine <b>10</b> through the field, etc. Information of this type can be measured from one or more additional sensors of the seeding machine <b>10</b> and/or the row unit <b>118</b>. Alternatively or additionally, such information can be input by a human operator to the controller <b>178</b>, for example from a control interface in an operator cabin.</p>
+    <p id="p-0027" num="0026">When the controller <b>178</b> determines that there is insufficient downforce, in response through a fourth step <b>298</b> the controller <b>178</b> sends a signal to the downforce adjustment mechanism <b>174</b>, and in a fifth step <b>302</b> the downforce adjustment mechanism <b>174</b> is activated and adjusts (i.e., increases) the downforce on the row unit <b>118</b>. The increased downforce can assist in achieving a more consistent furrow depth, for example. As illustrated in <figref idref="DRAWINGS">FIG. 8</figref>, once the downforce has been adjusted, the process repeats, such that the controller <b>178</b> is continuously receiving signals from the downforce sensor <b>148</b> and is continuously making adjustments to the downforce as needed (i.e., creating a closed loop). As mentioned above, this can occur simultaneously for a plurality of row units <b>118</b>, each having separate downforce adjustment mechanisms <b>174</b>. Alternatively, when the controller <b>178</b> determines there is excess downforce at step <b>282</b>, then in response through a fourth step <b>298</b> the controller <b>178</b> sends a signal to the downforce adjustment mechanism <b>174</b>, and in a fifth step <b>302</b> the downforce adjustment mechanism <b>174</b> is activated and adjusts (i.e., decreases) the downforce on the row unit <b>118</b>.</p>
+    <p id="p-0028" num="0027">The downforce control as described above can be carried out in a closed loop automated manner via the controller <b>178</b> without ongoing operator interaction. Alternatively, in some constructions, the measured downforce may be displayed to an operator (e.g., on a visual display), and the operator may respond by making adjustments to the downforce and/or travel speed of the seeding machine <b>10</b> as desired based on the displayed information.</p>
+    <p id="p-0029" num="0028">Following are several clauses describing various embodiments and concepts disclosed herein:</p>
+    <p id="p-0030" num="0029">Clause 1. A row unit for a seeding machine operable to plant seeds into soil. The row unit includes a frame, a gauge wheel operable to engage the soil and support the frame via a gauge wheel arm connected between the gauge wheel and the frame, and a seed dispenser supported by the frame and operable to dispense seeds into the soil. The gauge wheel is supported by the frame via a gauge wheel arm. A depth stop assembly includes a stop setting an upward travel limit of the gauge wheel with respect to the frame, and a handle that is lockable and releasable to move the stop to select among a plurality of seeding depths. A downforce actuator is operable to generate a variable amount of downforce to be applied through the gauge wheel arm and the gauge wheel to the soil. A downforce sensor is incorporated into the depth stop assembly and movable therewith. The depth stop assembly includes a multi-piece body having a first piece receiving the handle, and a second piece defining a pivot joining the depth stop assembly to the frame. The first piece of the multi-piece body includes a handle-receiving receptacle portion, a fastening portion for fastening to the second piece of the multi-piece body adjacent the pivot, and a portion between the handle-receiving receptacle portion and the fastening portion forming a housing of the downforce sensor.</p>
+    <p id="p-0031" num="0030">Clause 2. The row unit of clause 1, further comprising a controller programmed to output a control signal to the downforce actuator to adjust the downforce based at least partially on an output from the downforce sensor.</p>
+    <p id="p-0032" num="0031">Clause 3. The row unit of clause 2, wherein the controller is programmed to control the downforce adjustment mechanism to adjust a downforce on the frame by comparing a stored downforce target value to the output from the downforce sensor.</p>
+    <p id="p-0033" num="0032">Clause 4. The row unit of clause 2, further comprising an electrical connector for establishing communication between the downforce sensor and the controller, wherein the electrical connector is supported by the second piece of the multi-piece body.</p>
+    <p id="p-0034" num="0033">Clause 5. The row unit of clause 1, wherein the downforce sensor is a load cell including at least one strain gauge positioned in a receptacle of the downforce sensor housing.</p>
+    <p id="p-0035" num="0034">Clause 6. The row unit of clause 1, wherein the stop is a rocker pivotably supported on the depth stop assembly and presenting two discrete stop surfaces, one of which is positioned to contact the gauge wheel arm supporting the gauge wheel and the other of which is positioned to contact a second gauge wheel arm supporting a second gauge wheel.</p>
+    <p id="p-0036" num="0035">Clause 7. The row unit of clause 1, wherein the downforce sensor is offset from the stop and positioned on an opposite side of the pivot from the stop.</p>
+    <p id="p-0037" num="0036">Clause 8. The row unit of clause 1, wherein the handle is slidably received by the first piece of the multi-piece body to define a handle axis, and wherein the downforce sensor extends parallel to the handle axis at a position alongside the handle.</p>
+    <p id="p-0038" num="0037">Clause 9. The row unit of clause 8, wherein the downforce sensor is a load cell including at least one strain gauge oriented to measure perpendicular to the handle axis.</p>
+    <p id="p-0039" num="0038">Clause 10. A row unit for a seeding machine operable to plant seeds into soil. The row unit includes a frame, a gauge wheel operable to engage the soil and support the frame via a gauge wheel arm connected between the gauge wheel and the frame, and a seed dispenser supported by the frame and operable to dispense seeds into the soil. The gauge wheel is supported by the frame via a gauge wheel arm. A depth stop assembly includes a stop setting an upward travel limit of the gauge wheel with respect to the frame, and a handle that is lockable and releasable to move the stop to select among a plurality of seeding depths. A pivot joins the depth stop assembly to the frame. A downforce actuator is operable to generate a variable amount of downforce to be applied through the gauge wheel arm and the gauge wheel to the soil. A downforce sensor is provided by a load cell including at least one strain gauge. The load cell is offset from the stop and positioned on an opposite side of the pivot from the stop.</p>
+    <p id="p-0040" num="0039">Clause 11. The row unit of clause 10, wherein the stop is a rocker pivotably supported on the depth stop assembly and presenting two discrete stop surfaces, one of which is positioned to contact the gauge wheel arm supporting the gauge wheel and the other of which is positioned to contact a second gauge wheel arm supporting a second gauge wheel.</p>
+    <p id="p-0041" num="0040">Clause 12. The row unit of clause 10, further comprising a controller programmed to output a control signal to the downforce actuator to adjust the downforce based at least partially on an output from the downforce sensor.</p>
+    <p id="p-0042" num="0041">Clause 13. The row unit of clause 12, wherein the controller is programmed to control the downforce adjustment mechanism to adjust a downforce on the frame by comparing a stored downforce target value to the output from the downforce sensor.</p>
+    <p id="p-0043" num="0042">Clause 14. The row unit of clause 12, further comprising an electrical connector for establishing communication between the downforce sensor and the controller, wherein the depth stop assembly includes a multi-piece body, and wherein the electrical connector and the handle are supported by separate pieces of the multi-piece body.</p>
+    <p id="p-0044" num="0043">Clause 15. The row unit of clause 10, wherein the depth stop assembly includes a multi-piece body having a first piece receiving the handle, and a second piece defining the pivot joining the depth stop assembly to the frame.</p>
+    <p id="p-0045" num="0044">Clause 16. The row unit of clause 18, wherein the first and second pieces of the multi-piece body are separate from each other and connected by fixing of the downforce sensor therebetween.</p>
+    <p id="p-0046" num="0045">Clause 17. The row unit of clause 15, wherein the handle is slidably received by a body of the depth stop assembly to define a handle axis, and wherein the downforce sensor extends parallel to the handle axis at a position alongside the handle.</p>
+    <p id="p-0047" num="0046">Clause 18. The row unit of clause 17, wherein the at least one strain gauge is oriented to measure perpendicular to the handle axis.</p>
+    <p id="p-0048" num="0047">Clause 19. A seeding row unit depth stop assembly including a stop, a handle, a and a multi-piece body. The stop presents a surface positioned to set an upward travel limit of a gauge wheel of the row unit. The handle is movable between locked and released positions, the depth stop assembly having a pivot for moving among a plurality of seeding depths when the handle is in the released position. The multi-piece body has a first piece receiving the handle, and a second piece separate from the first piece, the second piece defining the pivot. A downforce sensor is incorporated into the depth stop assembly and movable therewith. The first piece forms a housing of the downforce sensor. The downforce sensor is offset from the stop and positioned on an opposite side of the pivot from the stop.</p>
+    <p id="p-0049" num="0048">Clause 20. The seeding row unit depth stop assembly of clause 19, wherein the handle is slidably received by the first piece of the multi-piece body to define a handle axis, and wherein the downforce sensor extends parallel to the handle axis at a position alongside the handle, and wherein the downforce sensor is a load cell including a strain gauge oriented to measure perpendicular to the handle axis, the strain gauge positioned within a receptacle of the downforce sensor housing.</p>
+    <p id="p-0050" num="0049">Any of the above referenced aspects of the disclosure can be combined with any one or more of the above referenced aspects of the disclosure.</p>
+    <p id="p-0051" num="0050">Various features and advantages of the disclosure are set forth in the following claims.</p>
+  </description>
+  <claims lang="en" load-source="national-office" data-format="original">
+    <claim num="1" id="CLM-1">
+      <claim-text>
+        <b>1</b>. A row unit for a seeding machine operable to plant seeds into soil, the row unit comprising:
+<claim-text>a frame;</claim-text><claim-text>a gauge wheel operable to engage the soil and support the frame via a gauge wheel arm connected between the gauge wheel and the frame;</claim-text><claim-text>a seed dispenser supported by the frame and operable to dispense seeds into the soil;</claim-text><claim-text>a depth stop assembly including a stop setting an upward travel limit of the gauge wheel with respect to the frame, and a handle that is lockable and releasable to move the stop to select among a plurality of seeding depths;</claim-text><claim-text>a downforce actuator operable to generate a variable amount of downforce to be applied through the gauge wheel arm and the gauge wheel to the soil; and</claim-text><claim-text>a downforce sensor incorporated into the depth stop assembly and movable therewith,</claim-text><claim-text>wherein the depth stop assembly includes a multi-piece body having a first piece receiving the handle, and a second piece defining a pivot joining the depth stop assembly to the frame, and</claim-text><claim-text>wherein the first piece of the multi-piece body includes a handle-receiving receptacle portion, a fastening portion for fastening to the second piece of the multi-piece body adjacent the pivot, and a portion between the handle-receiving receptacle portion and the fastening portion forming a housing of the downforce sensor.</claim-text></claim-text>
+    </claim>
+    <claim num="2" id="CLM-2">
+      <claim-text>
+        <b>2</b>. The row unit of <claim-ref idref="CLM-1">claim 1</claim-ref>, further comprising a controller programmed to output a control signal to the downforce actuator to adjust the downforce based at least partially on an output from the downforce sensor.</claim-text>
+    </claim>
+    <claim num="3" id="CLM-3">
+      <claim-text>
+        <b>3</b>. The row unit of <claim-ref idref="CLM-2">claim 2</claim-ref>, wherein the controller is programmed to control the downforce adjustment mechanism to adjust a downforce on the frame by comparing a stored downforce target value to the output from the downforce sensor.</claim-text>
+    </claim>
+    <claim num="4" id="CLM-4">
+      <claim-text>
+        <b>4</b>. The row unit of <claim-ref idref="CLM-2">claim 2</claim-ref>, further comprising an electrical connector for establishing communication between the downforce sensor and the controller, wherein the electrical connector is supported by the second piece of the multi-piece body.</claim-text>
+    </claim>
+    <claim num="5" id="CLM-5">
+      <claim-text>
+        <b>5</b>. The row unit of <claim-ref idref="CLM-1">claim 1</claim-ref>, wherein the downforce sensor is a load cell including at least one strain gauge positioned in a receptacle of the downforce sensor housing.</claim-text>
+    </claim>
+    <claim num="6" id="CLM-6">
+      <claim-text>
+        <b>6</b>. The row unit of <claim-ref idref="CLM-1">claim 1</claim-ref>, wherein the stop is a rocker pivotably supported on the depth stop assembly and presenting two discrete stop surfaces, one of which is positioned to contact the gauge wheel arm supporting the gauge wheel and the other of which is positioned to contact a second gauge wheel arm supporting a second gauge wheel.</claim-text>
+    </claim>
+    <claim num="7" id="CLM-7">
+      <claim-text>
+        <b>7</b>. The row unit of <claim-ref idref="CLM-1">claim 1</claim-ref>, wherein the downforce sensor is offset from the stop and positioned on an opposite side of the pivot from the stop.</claim-text>
+    </claim>
+    <claim num="8" id="CLM-8">
+      <claim-text>
+        <b>8</b>. The row unit of <claim-ref idref="CLM-1">claim 1</claim-ref>, wherein the handle is slidably received by the first piece of the multi-piece body to define a handle axis, and wherein the downforce sensor extends parallel to the handle axis at a position alongside the handle.</claim-text>
+    </claim>
+    <claim num="9" id="CLM-9">
+      <claim-text>
+        <b>9</b>. The row unit of <claim-ref idref="CLM-8">claim 8</claim-ref>, wherein the downforce sensor is a load cell including at least one strain gauge oriented to measure perpendicular to the handle axis.</claim-text>
+    </claim>
+    <claim num="10" id="CLM-10">
+      <claim-text>
+        <b>10</b>. A row unit for a seeding machine operable to plant seeds into soil, the row unit comprising:
+<claim-text>a depth stop assembly including a stop setting an upward travel limit of a gauge wheel of the row unit, and a handle that is lockable and releasable to move the stop to select among a plurality of seeding depths;</claim-text><claim-text>a downforce actuator operable to generate a variable amount of downforce to be applied to the soil; and</claim-text><claim-text>a downforce sensor incorporated into the depth stop assembly and movable therewith,</claim-text><claim-text>wherein the depth stop assembly includes a multi-piece body having a first piece receiving the handle, and a second piece defining a pivot joining the depth stop assembly to a frame, and</claim-text><claim-text>wherein the first piece of the multi-piece body includes a handle-receiving receptacle portion, a fastening portion for fastening to the second piece of the multi-piece body adjacent the pivot, and a portion between the handle-receiving receptacle portion and the fastening portion forming a housing of the downforce sensor.</claim-text></claim-text>
+    </claim>
+    <claim num="11" id="CLM-11">
+      <claim-text>
+        <b>11</b>. The row unit of <claim-ref idref="CLM-10">claim 10</claim-ref>, further comprising a controller programmed to output a control signal to the downforce actuator to adjust the downforce based at least partially on an output from the downforce sensor.</claim-text>
+    </claim>
+    <claim num="12" id="CLM-12">
+      <claim-text>
+        <b>12</b>. The row unit of <claim-ref idref="CLM-11">claim 11</claim-ref>, wherein the controller is programmed to control the downforce adjustment mechanism to adjust a downforce by comparing a stored downforce target value to the output from the downforce sensor.</claim-text>
+    </claim>
+    <claim num="13" id="CLM-13">
+      <claim-text>
+        <b>13</b>. The row unit of <claim-ref idref="CLM-11">claim 11</claim-ref>, further comprising an electrical connector for establishing communication between the downforce sensor and the controller, wherein the electrical connector is supported by the second piece of the multi-piece body.</claim-text>
+    </claim>
+    <claim num="14" id="CLM-14">
+      <claim-text>
+        <b>14</b>. The row unit of <claim-ref idref="CLM-10">claim 10</claim-ref>, wherein the downforce sensor is a load cell including at least one strain gauge positioned in a receptacle of the downforce sensor housing.</claim-text>
+    </claim>
+    <claim num="15" id="CLM-15">
+      <claim-text>
+        <b>15</b>. The row unit of <claim-ref idref="CLM-10">claim 10</claim-ref>, wherein the stop is a rocker pivotably supported on the depth stop assembly and presenting two discrete stop surfaces, one of which is positioned to contact a first gauge wheel arm and the other of which is positioned to contact a second gauge wheel arm.</claim-text>
+    </claim>
+    <claim num="16" id="CLM-16">
+      <claim-text>
+        <b>16</b>. The row unit of <claim-ref idref="CLM-10">claim 10</claim-ref>, wherein the downforce sensor is offset from the stop and positioned on an opposite side of the pivot from the stop.</claim-text>
+    </claim>
+    <claim num="17" id="CLM-17">
+      <claim-text>
+        <b>17</b>. The row unit of <claim-ref idref="CLM-10">claim 10</claim-ref>, wherein the handle is slidably received by the first piece of the multi-piece body to define a handle axis, and wherein the downforce sensor extends parallel to the handle axis at a position alongside the handle.</claim-text>
+    </claim>
+    <claim num="18" id="CLM-18">
+      <claim-text>
+        <b>18</b>. The row unit of <claim-ref idref="CLM-17">claim 17</claim-ref>, wherein the downforce sensor is a load cell including at least one strain gauge oriented to measure perpendicular to the handle axis.</claim-text>
+    </claim>
+  </claims>
+  <copyright>User is aware and acknowledges that Lighthouse IP shall retain all right, title and interest in and to this record and its structure under relevant and applicable copyright laws. User receives no ownership or any other rights to this record and its structure. User is aware and confirms accepting the terms and conditions of use as defined in the relevant user agreement either with Lighthouse IP or with its partner(s). This product may contain data sourced from EPO databases, © European Patent Organisation.</copyright>
+</patent-document>
